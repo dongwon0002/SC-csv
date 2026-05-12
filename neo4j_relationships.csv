@@ -1,0 +1,893 @@
+﻿:START_ID(Entity),:END_ID(Entity),:TYPE,evidence,source_file
+Country_china_eb278d21,EnergySource_coal_8aac3d87,DEPENDS_ON_ENERGY,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_china_eb278d21,EnergySource_gas_551c8ec0,DEPENDS_ON_ENERGY,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_china_eb278d21,EnergySource_lng_4b1b1786,DEPENDS_ON_ENERGY,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_china_eb278d21,EnergySource_oil_1ab2bf55,DEPENDS_ON_ENERGY,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_germany_45bfada5,EnergySource_coal_8aac3d87,DEPENDS_ON_ENERGY,"Germany: 2024년 총에너지 공급 10.14EJ 중 석유 4.24EJ, 가스 2.83EJ, 석탄 1.58EJ. EU는 석유 90% 이상, 가스 약 85%를 수입 러시아 가스 축소 이후 공급 다변화는 했지만 산업용 에너지 가격과 가스발전 가격결정 구조에 취약. 원전 종료로 전력 안정성·가격 부담도 전략적 약점",country_energy_dependency.xlsx
+Country_germany_45bfada5,EnergySource_gas_551c8ec0,DEPENDS_ON_ENERGY,"Germany: 2024년 총에너지 공급 10.14EJ 중 석유 4.24EJ, 가스 2.83EJ, 석탄 1.58EJ. EU는 석유 90% 이상, 가스 약 85%를 수입 러시아 가스 축소 이후 공급 다변화는 했지만 산업용 에너지 가격과 가스발전 가격결정 구조에 취약. 원전 종료로 전력 안정성·가격 부담도 전략적 약점",country_energy_dependency.xlsx
+Country_germany_45bfada5,EnergySource_oil_1ab2bf55,DEPENDS_ON_ENERGY,"Germany: 2024년 총에너지 공급 10.14EJ 중 석유 4.24EJ, 가스 2.83EJ, 석탄 1.58EJ. EU는 석유 90% 이상, 가스 약 85%를 수입 러시아 가스 축소 이후 공급 다변화는 했지만 산업용 에너지 가격과 가스발전 가격결정 구조에 취약. 원전 종료로 전력 안정성·가격 부담도 전략적 약점",country_energy_dependency.xlsx
+Country_japan_016a8706,EnergySource_coal_8aac3d87,DEPENDS_ON_ENERGY,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_japan_016a8706,EnergySource_lng_4b1b1786,DEPENDS_ON_ENERGY,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_portugal_d0ef9ea5,EnergySource_gas_551c8ec0,DEPENDS_ON_ENERGY,"Portugal: 2024년 총에너지 공급 0.77EJ 중 석유 0.44EJ, 천연가스 0.13EJ. 국내 화석연료 생산이 사실상 미미 자체 화석연료 기반이 거의 없어 수입 연료와 이베리아 전력·가스 연계에 의존. 재생에너지 비중 확대가 강점이지만 가뭄 시 수력 변동성 존재",country_energy_dependency.xlsx
+Country_portugal_d0ef9ea5,EnergySource_natural_gas_72a9bc0c,DEPENDS_ON_ENERGY,"Portugal: 2024년 총에너지 공급 0.77EJ 중 석유 0.44EJ, 천연가스 0.13EJ. 국내 화석연료 생산이 사실상 미미 자체 화석연료 기반이 거의 없어 수입 연료와 이베리아 전력·가스 연계에 의존. 재생에너지 비중 확대가 강점이지만 가뭄 시 수력 변동성 존재",country_energy_dependency.xlsx
+Country_portugal_d0ef9ea5,EnergySource_oil_1ab2bf55,DEPENDS_ON_ENERGY,"Portugal: 2024년 총에너지 공급 0.77EJ 중 석유 0.44EJ, 천연가스 0.13EJ. 국내 화석연료 생산이 사실상 미미 자체 화석연료 기반이 거의 없어 수입 연료와 이베리아 전력·가스 연계에 의존. 재생에너지 비중 확대가 강점이지만 가뭄 시 수력 변동성 존재",country_energy_dependency.xlsx
+Country_romania_363da05a,EnergySource_crude_oil_63fa455c,DEPENDS_ON_ENERGY,"Romania: 2024년 총에너지 공급 1.16EJ 중 석유 0.50EJ, 가스 0.34EJ. 자체 원유·가스 생산이 있어 포르투갈·스페인보다 의존도 낮음 상대적으로 자급력이 있으나 생산 감소 추세와 정유·가스 인프라 노후화가 약점. 러시아·흑해 지역 지정학 리스크에도 간접 노출",country_energy_dependency.xlsx
+Country_romania_363da05a,EnergySource_gas_551c8ec0,DEPENDS_ON_ENERGY,"Romania: 2024년 총에너지 공급 1.16EJ 중 석유 0.50EJ, 가스 0.34EJ. 자체 원유·가스 생산이 있어 포르투갈·스페인보다 의존도 낮음 상대적으로 자급력이 있으나 생산 감소 추세와 정유·가스 인프라 노후화가 약점. 러시아·흑해 지역 지정학 리스크에도 간접 노출",country_energy_dependency.xlsx
+Country_romania_363da05a,EnergySource_oil_1ab2bf55,DEPENDS_ON_ENERGY,"Romania: 2024년 총에너지 공급 1.16EJ 중 석유 0.50EJ, 가스 0.34EJ. 자체 원유·가스 생산이 있어 포르투갈·스페인보다 의존도 낮음 상대적으로 자급력이 있으나 생산 감소 추세와 정유·가스 인프라 노후화가 약점. 러시아·흑해 지역 지정학 리스크에도 간접 노출",country_energy_dependency.xlsx
+Country_south_korea_238b8074,EnergySource_crude_oil_63fa455c,DEPENDS_ON_ENERGY,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Country_south_korea_238b8074,EnergySource_lng_4b1b1786,DEPENDS_ON_ENERGY,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Country_spain_0fb18cea,EnergySource_crude_oil_63fa455c,DEPENDS_ON_ENERGY,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_spain_0fb18cea,EnergySource_gas_551c8ec0,DEPENDS_ON_ENERGY,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_spain_0fb18cea,EnergySource_lng_4b1b1786,DEPENDS_ON_ENERGY,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_spain_0fb18cea,EnergySource_oil_1ab2bf55,DEPENDS_ON_ENERGY,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_thailand_e096b776,EnergySource_gas_551c8ec0,DEPENDS_ON_ENERGY,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Country_thailand_e096b776,EnergySource_lng_4b1b1786,DEPENDS_ON_ENERGY,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Country_thailand_e096b776,EnergySource_oil_1ab2bf55,DEPENDS_ON_ENERGY,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Country_china_eb278d21,Country_australia_62095859,IMPORT_ENERGY_FROM,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_china_eb278d21,Country_indonesia_d2845120,IMPORT_ENERGY_FROM,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_china_eb278d21,Country_russia_1d6c59a7,IMPORT_ENERGY_FROM,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_china_eb278d21,Country_turkmenistan_59a8ee28,IMPORT_ENERGY_FROM,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_china_eb278d21,Region_lng_수출국_d277cbca,IMPORT_ENERGY_FROM,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_china_eb278d21,Region_middle_east_3095bd27,IMPORT_ENERGY_FROM,"China: 2024년 총에너지 수요의 약 25%를 수입에 의존. 석유·가스·석탄 모두 대규모 수입국이며, LNG 수입 105.2bcm, 석탄 수입 11.62EJ로 매우 큼 국내 생산 기반은 크지만 절대 소비량이 워낙 커서 해상 수송로, 중동 정세, 러시아·중앙아시아 파이프라인, 호주·인도네시아 석탄 공급에 동시 노출",country_energy_dependency.xlsx
+Country_germany_45bfada5,Country_norway_5a5a1655,IMPORT_ENERGY_FROM,"Germany: 2024년 총에너지 공급 10.14EJ 중 석유 4.24EJ, 가스 2.83EJ, 석탄 1.58EJ. EU는 석유 90% 이상, 가스 약 85%를 수입 러시아 가스 축소 이후 공급 다변화는 했지만 산업용 에너지 가격과 가스발전 가격결정 구조에 취약. 원전 종료로 전력 안정성·가격 부담도 전략적 약점",country_energy_dependency.xlsx
+Country_germany_45bfada5,Country_qatar_694450ad,IMPORT_ENERGY_FROM,"Germany: 2024년 총에너지 공급 10.14EJ 중 석유 4.24EJ, 가스 2.83EJ, 석탄 1.58EJ. EU는 석유 90% 이상, 가스 약 85%를 수입 러시아 가스 축소 이후 공급 다변화는 했지만 산업용 에너지 가격과 가스발전 가격결정 구조에 취약. 원전 종료로 전력 안정성·가격 부담도 전략적 약점",country_energy_dependency.xlsx
+Country_germany_45bfada5,Country_기타_eu_23df0dc3,IMPORT_ENERGY_FROM,"Germany: 2024년 총에너지 공급 10.14EJ 중 석유 4.24EJ, 가스 2.83EJ, 석탄 1.58EJ. EU는 석유 90% 이상, 가스 약 85%를 수입 러시아 가스 축소 이후 공급 다변화는 했지만 산업용 에너지 가격과 가스발전 가격결정 구조에 취약. 원전 종료로 전력 안정성·가격 부담도 전략적 약점",country_energy_dependency.xlsx
+Country_germany_45bfada5,Region_글로벌_가스_21c9a1c1,IMPORT_ENERGY_FROM,"Germany: 2024년 총에너지 공급 10.14EJ 중 석유 4.24EJ, 가스 2.83EJ, 석탄 1.58EJ. EU는 석유 90% 이상, 가스 약 85%를 수입 러시아 가스 축소 이후 공급 다변화는 했지만 산업용 에너지 가격과 가스발전 가격결정 구조에 취약. 원전 종료로 전력 안정성·가격 부담도 전략적 약점",country_energy_dependency.xlsx
+Country_germany_45bfada5,Region_미국_lng_ddd42ee1,IMPORT_ENERGY_FROM,"Germany: 2024년 총에너지 공급 10.14EJ 중 석유 4.24EJ, 가스 2.83EJ, 석탄 1.58EJ. EU는 석유 90% 이상, 가스 약 85%를 수입 러시아 가스 축소 이후 공급 다변화는 했지만 산업용 에너지 가격과 가스발전 가격결정 구조에 취약. 원전 종료로 전력 안정성·가격 부담도 전략적 약점",country_energy_dependency.xlsx
+Country_germany_45bfada5,Region_석유_공급국_8fd6f584,IMPORT_ENERGY_FROM,"Germany: 2024년 총에너지 공급 10.14EJ 중 석유 4.24EJ, 가스 2.83EJ, 석탄 1.58EJ. EU는 석유 90% 이상, 가스 약 85%를 수입 러시아 가스 축소 이후 공급 다변화는 했지만 산업용 에너지 가격과 가스발전 가격결정 구조에 취약. 원전 종료로 전력 안정성·가격 부담도 전략적 약점",country_energy_dependency.xlsx
+Country_japan_016a8706,Country_australia_62095859,IMPORT_ENERGY_FROM,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_japan_016a8706,Country_qatar_694450ad,IMPORT_ENERGY_FROM,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_japan_016a8706,Country_united_states_c5660c50,IMPORT_ENERGY_FROM,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_japan_016a8706,Region_middle_east_3095bd27,IMPORT_ENERGY_FROM,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_japan_016a8706,Region_동남아_lng_공급국_cc2a922a,IMPORT_ENERGY_FROM,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_portugal_d0ef9ea5,Country_eu_전력_e5f1b8be,IMPORT_ENERGY_FROM,"Portugal: 2024년 총에너지 공급 0.77EJ 중 석유 0.44EJ, 천연가스 0.13EJ. 국내 화석연료 생산이 사실상 미미 자체 화석연료 기반이 거의 없어 수입 연료와 이베리아 전력·가스 연계에 의존. 재생에너지 비중 확대가 강점이지만 가뭄 시 수력 변동성 존재",country_energy_dependency.xlsx
+Country_portugal_d0ef9ea5,Country_spain_0fb18cea,IMPORT_ENERGY_FROM,"Portugal: 2024년 총에너지 공급 0.77EJ 중 석유 0.44EJ, 천연가스 0.13EJ. 국내 화석연료 생산이 사실상 미미 자체 화석연료 기반이 거의 없어 수입 연료와 이베리아 전력·가스 연계에 의존. 재생에너지 비중 확대가 강점이지만 가뭄 시 수력 변동성 존재",country_energy_dependency.xlsx
+Country_portugal_d0ef9ea5,Country_가스망_f7d87067,IMPORT_ENERGY_FROM,"Portugal: 2024년 총에너지 공급 0.77EJ 중 석유 0.44EJ, 천연가스 0.13EJ. 국내 화석연료 생산이 사실상 미미 자체 화석연료 기반이 거의 없어 수입 연료와 이베리아 전력·가스 연계에 의존. 재생에너지 비중 확대가 강점이지만 가뭄 시 수력 변동성 존재",country_energy_dependency.xlsx
+Country_portugal_d0ef9ea5,Region_eu_외부_원유_fccbcba0,IMPORT_ENERGY_FROM,"Portugal: 2024년 총에너지 공급 0.77EJ 중 석유 0.44EJ, 천연가스 0.13EJ. 국내 화석연료 생산이 사실상 미미 자체 화석연료 기반이 거의 없어 수입 연료와 이베리아 전력·가스 연계에 의존. 재생에너지 비중 확대가 강점이지만 가뭄 시 수력 변동성 존재",country_energy_dependency.xlsx
+Country_portugal_d0ef9ea5,Region_lng_공급국_4c0c3851,IMPORT_ENERGY_FROM,"Portugal: 2024년 총에너지 공급 0.77EJ 중 석유 0.44EJ, 천연가스 0.13EJ. 국내 화석연료 생산이 사실상 미미 자체 화석연료 기반이 거의 없어 수입 연료와 이베리아 전력·가스 연계에 의존. 재생에너지 비중 확대가 강점이지만 가뭄 시 수력 변동성 존재",country_energy_dependency.xlsx
+Country_portugal_d0ef9ea5,Region_가스_공급국_5c0fe9b4,IMPORT_ENERGY_FROM,"Portugal: 2024년 총에너지 공급 0.77EJ 중 석유 0.44EJ, 천연가스 0.13EJ. 국내 화석연료 생산이 사실상 미미 자체 화석연료 기반이 거의 없어 수입 연료와 이베리아 전력·가스 연계에 의존. 재생에너지 비중 확대가 강점이지만 가뭄 시 수력 변동성 존재",country_energy_dependency.xlsx
+Country_romania_363da05a,Country_일부_원유_수입_de5f8f73,IMPORT_ENERGY_FROM,"Romania: 2024년 총에너지 공급 1.16EJ 중 석유 0.50EJ, 가스 0.34EJ. 자체 원유·가스 생산이 있어 포르투갈·스페인보다 의존도 낮음 상대적으로 자급력이 있으나 생산 감소 추세와 정유·가스 인프라 노후화가 약점. 러시아·흑해 지역 지정학 리스크에도 간접 노출",country_energy_dependency.xlsx
+Country_romania_363da05a,Country_지역_가스망_420882df,IMPORT_ENERGY_FROM,"Romania: 2024년 총에너지 공급 1.16EJ 중 석유 0.50EJ, 가스 0.34EJ. 자체 원유·가스 생산이 있어 포르투갈·스페인보다 의존도 낮음 상대적으로 자급력이 있으나 생산 감소 추세와 정유·가스 인프라 노후화가 약점. 러시아·흑해 지역 지정학 리스크에도 간접 노출",country_energy_dependency.xlsx
+Country_romania_363da05a,Region_eu_64d6219a,IMPORT_ENERGY_FROM,"Romania: 2024년 총에너지 공급 1.16EJ 중 석유 0.50EJ, 가스 0.34EJ. 자체 원유·가스 생산이 있어 포르투갈·스페인보다 의존도 낮음 상대적으로 자급력이 있으나 생산 감소 추세와 정유·가스 인프라 노후화가 약점. 러시아·흑해 지역 지정학 리스크에도 간접 노출",country_energy_dependency.xlsx
+Country_romania_363da05a,Region_제한적_외부_공급_3c773ffa,IMPORT_ENERGY_FROM,"Romania: 2024년 총에너지 공급 1.16EJ 중 석유 0.50EJ, 가스 0.34EJ. 자체 원유·가스 생산이 있어 포르투갈·스페인보다 의존도 낮음 상대적으로 자급력이 있으나 생산 감소 추세와 정유·가스 인프라 노후화가 약점. 러시아·흑해 지역 지정학 리스크에도 간접 노출",country_energy_dependency.xlsx
+Country_south_korea_238b8074,Country_australia_62095859,IMPORT_ENERGY_FROM,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Country_south_korea_238b8074,Country_indonesia_d2845120,IMPORT_ENERGY_FROM,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Country_south_korea_238b8074,Country_qatar_694450ad,IMPORT_ENERGY_FROM,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Country_south_korea_238b8074,Country_united_states_c5660c50,IMPORT_ENERGY_FROM,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Country_south_korea_238b8074,Region_middle_east_3095bd27,IMPORT_ENERGY_FROM,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Country_spain_0fb18cea,Country_algeria_4b6e8f8b,IMPORT_ENERGY_FROM,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_spain_0fb18cea,Country_nigeria_2ce5474c,IMPORT_ENERGY_FROM,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_spain_0fb18cea,Country_qatar_694450ad,IMPORT_ENERGY_FROM,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_spain_0fb18cea,Country_united_states_c5660c50,IMPORT_ENERGY_FROM,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_spain_0fb18cea,Region_가스_공급국_5c0fe9b4,IMPORT_ENERGY_FROM,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_spain_0fb18cea,Region_글로벌_원유_공급국_537679b8,IMPORT_ENERGY_FROM,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_spain_0fb18cea,Region_러시아_lng_927f8705,IMPORT_ENERGY_FROM,"Spain: 2024년 총에너지 공급 5.13EJ 중 석유 2.67EJ, 가스 1.02EJ. LNG 수입 18.4bcm로 유럽 내 주요 LNG 수입국 LNG 터미널 역량은 강점이지만 원유·가스 자체 생산은 제한적. 북아프리카 가스, LNG 가격, 해상 수송에 노출",country_energy_dependency.xlsx
+Country_thailand_e096b776,Country_australia_62095859,IMPORT_ENERGY_FROM,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Country_thailand_e096b776,Country_indonesia_d2845120,IMPORT_ENERGY_FROM,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Country_thailand_e096b776,Country_qatar_694450ad,IMPORT_ENERGY_FROM,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Country_thailand_e096b776,Country_미얀마_파이프라인_가스_348a1cc7,IMPORT_ENERGY_FROM,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Country_thailand_e096b776,Country_중동_원유_37c3f9ed,IMPORT_ENERGY_FROM,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Country_thailand_e096b776,Country_호주_석탄_ff5390e9,IMPORT_ENERGY_FROM,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Country_thailand_e096b776,Region_미국_lng_공급국_e57a9989,IMPORT_ENERGY_FROM,"Thailand: 2024년 총에너지 공급 5.02EJ 중 석유 2.38EJ, 가스 1.74EJ. LNG 수입 15.8bcm, 파이프라인 가스 수입 5.3bcm 국내 가스 생산 감소와 전력·산업 수요 증가로 LNG 의존 확대. 동남아 전체가 2030년 전후 가스 순수입 지역으로 전환될 전망이라 가격·공급 경쟁 심화 가능",country_energy_dependency.xlsx
+Company_autoliv_413a921b,Country_thailand_e096b776,LOCATED_IN,Thailand row: Autoliv located at 라용 handles 안전벨트; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_bosch_e8e30ffa,Country_germany_45bfada5,LOCATED_IN,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_continental_b623b44c,Country_germany_45bfada5,LOCATED_IN,Germany row: Continental located at 하노버 handles 범퍼; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_continental_b623b44c,Country_romania_363da05a,LOCATED_IN,Romania row: Continental located at 시비우 handles 브레이크 부스터; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_denso_b7739daa,Country_japan_016a8706,LOCATED_IN,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_ficosa_c7caefd6,Country_spain_0fb18cea,LOCATED_IN,"Spain row: Ficosa located at 바르셀로나 handles 카스테레오; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_grupo_antolin_4cce34c8,Country_spain_0fb18cea,LOCATED_IN,"Spain row: Grupo Antolin located at 부르고스 handles 카스테레오(블루투스); materials=주석,금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_hanon_systems_cdfe2c02,Country_china_eb278d21,LOCATED_IN,China row: Hanon Systems located at 충칭 handles 에어컨; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hanon_systems_cdfe2c02,Country_china_eb278d21,LOCATED_IN,China row: Hanon Systems located at 상하이 handles 라디에이터; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hitachi_astemo_c2248da7,Country_china_eb278d21,LOCATED_IN,China row: Hitachi Astemo located at 광저우 handles 브레이크 장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hl만도_8fdd8fcf,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: HL만도 located at 평택 handles 제동장치; materials=주석,탄탈럼; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_hl만도_8fdd8fcf,Country_south_korea_238b8074,LOCATED_IN,South Korea row: HL만도 located at 원주 handles 조향장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hl만도_8fdd8fcf,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: HL만도 located at 익산 handles 현가장치; materials=구리,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_hl만도_hl만도브로제_6c11ee60,Country_south_korea_238b8074,LOCATED_IN,South Korea row: HL만도(HL만도브로제) located at 인천 handles 조향장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hl만도_hl클레무브_639cb150,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: HL만도(HL클레무브) located at 인천 handles 자율주행/전동화 부품; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_hyundai_kefico_caad7aa6,Country_china_eb278d21,LOCATED_IN,China row: Hyundai Kefico located at 하노이 handles 경보기; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_mobis_67ae806b,Country_china_eb278d21,LOCATED_IN,China row: Hyundai Mobis located at 장쑤 handles 카스테레오; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_mobis_67ae806b,Country_china_eb278d21,LOCATED_IN,China row: Hyundai Mobis located at 베이징 handles 에어백모듈; materials=금; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_mobis_67ae806b,Country_china_eb278d21,LOCATED_IN,China row: Hyundai Mobis located at 우시 handles 브레이크부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_mobis_67ae806b,Country_china_eb278d21,LOCATED_IN,China row: Hyundai Mobis located at 창저우 handles 에어백; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_transys_e1735560,Country_china_eb278d21,LOCATED_IN,China row: Hyundai Transys located at 창춘 handles 구동차축; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_transys_e1735560,Country_china_eb278d21,LOCATED_IN,China row: Hyundai Transys located at 베이징 handles 시트; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_wia_66450aeb,Country_china_eb278d21,LOCATED_IN,China row: Hyundai WIA located at 산둥 handles 차륜; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_wia_66450aeb,Country_china_eb278d21,LOCATED_IN,China row: Hyundai WIA located at 칭다오 handles 바퀴축; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_kyb_df1dffe7,Country_japan_016a8706,LOCATED_IN,Japan row: KYB located at 기후 handles 서스펜션; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_kyungshin_6af4d113,Country_china_eb278d21,LOCATED_IN,"China row: Kyungshin located at 옌타이 handles 와이어링 하니스; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_lg_electronics_11f2225f,Country_china_eb278d21,LOCATED_IN,China row: LG Electronics located at 난징 handles CDS 수신기; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_mando_5070089e,Country_china_eb278d21,LOCATED_IN,China row: Mando located at 쑤저우 handles 조향장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_mando_5070089e,Country_china_eb278d21,LOCATED_IN,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_mann_hummel_030fa9d4,Country_china_eb278d21,LOCATED_IN,China row: MANN+HUMMEL located at 상하이 handles 에어필터; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_sl_corporation_76943b4e,Country_china_eb278d21,LOCATED_IN,China row: SL Corporation located at 톈진 handles 파미러; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_yanfeng_automotive_1dc39d88,Country_china_eb278d21,LOCATED_IN,China row: Yanfeng Automotive located at 상하이 handles 기타차량부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_zf_4093b779,Country_germany_45bfada5,LOCATED_IN,"Germany row: ZF located at 프리드리히스하펜 handles 기타승용차부품; materials=망간, 구리, 주석, 탄탈럼,금, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_경신_5e2dd99f,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 경신 located at 경주/화성/군산 handles 와이어링 하니스(배선뭉치); materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_다스_9d9e8fa6,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 다스 located at 경주 handles 자동차용 시트; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_대원산업_41814848,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 대원산업 located at 안산/시흥/평택/서산 handles 자동차용 시트; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_덕양산업_0091bd22,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 덕양산업 located at 울산/진천/창원/대구 handles 운전석 모듈,Door Trim; materials=; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_모베이시스전자_173de7c7,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_발레오전장시스템코리아_502e5f67,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 발레오전장시스템코리아 located at 경주 handles 시동모터, 교류발전기; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_비테스코테크놀로지스_9b2bfac9,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 비테스코테크놀로지스 located at 이천 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_서진산업_287a85f6,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 서진산업 located at 경주/화성/시흥/광주 handles 차체용 부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_성우하이텍_3a9c298b,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 성우하이텍 located at 양산/부산/경주 handles 차체용 부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_에스엘_7bcd559e,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 에스엘 located at 천안/대구 handles 램프,전동화 부품, 미러; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_유라코퍼레이션_2588aa1a,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 유라코퍼레이션 located at 청주/평택/경주 handles 와이어링 하니스; materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_지엠비코리아_cd8d0c22,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 지엠비코리아 located at 창원/서산 handles 변속기, 엔진, 섀시; materials=텅스텐,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_카펙발레오_425e39cf,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 카펙발레오 located at 칠곡/성주 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_평화바레오_feb723b6,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 평화바레오 located at 대구/고령 handles 클러치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_피에이치에이_aa5b0457,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 피에이치에이 located at 대구 handles 차량용 도어 개폐장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_한온시스템_9d7833b6,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 한온시스템 located at 울산 handles 자동차 열관리 시스템; materials=구리; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대모비스_e636ba5b,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_현대모비스_모트라스_c114e4cc,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 현대모비스(모트라스) located at 아산/울산/안양/화성/평택/천안/서산/광주 handles 자동차 모듈; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대모비스_유니투스_c5404582,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 현대모비스(유니투스) located at 아산/평택/천안/충주/김천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=주석, 금,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_현대위아_e20d69f3,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 현대위아 located at 창원 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_현대위아_e20d69f3,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 현대위아 located at 광주 handles 섀시모듈, 타이어모듈, 동력전달장치(액슬); materials=망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_현대위아_e20d69f3,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 현대위아 located at 안산 handles 섀시모듈; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대위아_e20d69f3,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 현대위아 located at 울산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대케피코_4a96187d,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 현대케피코 located at 군포 handles 자동차 엔진/변속기 부품; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대트랜시스_fdd83181,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 현대트랜시스 located at 서산 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대트랜시스_현대엠시트_6fcefbfa,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 현대트랜시스(현대엠시트) located at 아산/울산/경주 handles 자동차용 시트 및 시트부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_화신_4e71503a,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 화신 located at 영천/예산 handles 차체용 부품; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_aichi_steel_d8ce95f2,Country_japan_016a8706,LOCATED_IN,Japan row: Aichi steel located at handles 브레이크; materials=망간; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_almt_7af0fec8,Country_japan_016a8706,LOCATED_IN,Japan row: ALMT located at handles 브레이크; materials=텅스텐; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Country_germany_45bfada5,LOCATED_IN,Germany row: alpha assembly solutions located at Langenfeld handles 기타승용차 부품; materials=주석; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Country_germany_45bfada5,LOCATED_IN,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오; materials=주석; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Country_germany_45bfada5,LOCATED_IN,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오(블루투스); materials=주석; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_chuo_spring_e5a46ac5,Country_japan_016a8706,LOCATED_IN,Japan row: Chuo spring located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: DB메탈 located at 동해 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: DB메탈 located at 동해 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: DB메탈 located at 동해 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Country_south_korea_238b8074,LOCATED_IN,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Country_south_korea_238b8074,LOCATED_IN,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=비테스코테크놀로지스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_h_c_starck_3cf751b8,Country_germany_45bfada5,LOCATED_IN,Germany row: H.C. Starck located at handles 서스펜션; materials=텅스텐 탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_b016e8a0,Country_germany_45bfada5,LOCATED_IN,Germany row: Heraeus located at Hanau handles 서스펜션; materials=금; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_b016e8a0,Country_germany_45bfada5,LOCATED_IN,Germany row: Heraeus located at Hanau handles 기타승용차 부품; materials=금; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Country_germany_45bfada5,LOCATED_IN,Germany row: heraeus electronics located at Hanau handles 카스테레오; materials=금; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Country_germany_45bfada5,LOCATED_IN,Germany row: heraeus electronics located at Hanau handles 카스테레오(블루투스); materials=금; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jfe_steel_c3cf32e4,Country_japan_016a8706,LOCATED_IN,Japan row: JFE steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jiangxi_copper_fbdf6578,Country_china_eb278d21,LOCATED_IN,China row: jiangxi copper located at handles 와이어링 하네스; materials=구리; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jilin_ferroalloys_3c2e5d87,Country_china_eb278d21,LOCATED_IN,China row: jilin Ferroalloys located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Country_china_eb278d21,LOCATED_IN,China row: KEMET located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Country_china_eb278d21,LOCATED_IN,China row: KEMET located at Suzhou handles 제동장치; materials=탄탈럼; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Country_china_eb278d21,LOCATED_IN,China row: KEMET located at Suzhou handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Country_portugal_d0ef9ea5,LOCATED_IN,Portugal row: KEMET located at Évora handles 서스펜션; materials=탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Country_portugal_d0ef9ea5,LOCATED_IN,Portugal row: KEMET located at Évora handles 기타승용차 부품; materials=탄탈럼; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ls전선_8ba93ce3,Country_south_korea_238b8074,LOCATED_IN,South Korea row: LS전선 located at 구미 handles 와이어링 하니스; materials=구리; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: LT메탈 located at 인천 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금, 주석; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: LT메탈 located at 인천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=금, 주석; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Country_south_korea_238b8074,LOCATED_IN,South Korea row: LT메탈 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Country_south_korea_238b8074,LOCATED_IN,South Korea row: LT메탈 located at 인천 handles 자율주행/전동화 부품; materials=주석; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: LT메탈 located at 인천 handles 램프,전동화 부품, 미러; materials=주석; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: LT메탈 located at 인천 handles 시동모터, 교류발전기; materials=주석; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Country_south_korea_238b8074,LOCATED_IN,South Korea row: LT메탈 located at 인천 handles 스마트키 등 전자제어 시스템; materials=금; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_소주_연태_1454b731,Country_china_eb278d21,LOCATED_IN,"China row: LT메탈(소주/연태) located at 심천, 천진 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.",auto_supply_chain.xlsx
+Supplier_metalor_3c1ee235,Country_china_eb278d21,LOCATED_IN,China row: metalor located at 소주 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Supplier_murata_1ce1c987,Country_japan_016a8706,LOCATED_IN,Japan row: murata located at handles 브레이크; materials=탄탈럼; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ningxia_tianyuan_manganese_584fa8df,Country_china_eb278d21,LOCATED_IN,China row: Ningxia tianyuan Manganese located at handles 브레이크; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_nippon_steel_338b7532,Country_japan_016a8706,LOCATED_IN,Japan row: Nippon steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_posco_china_94b93d1d,Country_china_eb278d21,LOCATED_IN,China row: posco china located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_saarstahl_79036940,Country_germany_45bfada5,LOCATED_IN,Germany row: Saarstahl located at handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_saarstahl_79036940,Country_germany_45bfada5,LOCATED_IN,Germany row: Saarstahl located at handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_senju_metal_industry_e214dc6f,Country_japan_016a8706,LOCATED_IN,Japan row: senju metal industry located at handles 브레이크; materials=주석; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: SIMPACK located at 포함 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: SIMPACK located at 포함 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: SIMPACK located at 포함 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_sumitomo_metal_mining_2b650d60,Country_japan_016a8706,LOCATED_IN,"Japan row: Sumitomo metal mining located at handles 브레이크; materials=코발트,구리; supplies_to=Denso; tier=2.0.",auto_supply_chain.xlsx
+Supplier_tanaka_kikinzoku_3350acf9,Country_japan_016a8706,LOCATED_IN,Japan row: Tanaka kikinzoku located at handles 브레이크; materials=금; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_thyssenkrupp_09f31296,Country_germany_45bfada5,LOCATED_IN,Germany row: ThyssenKrupp located at 뒤스부르크 handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_thyssenkrupp_09f31296,Country_germany_45bfada5,LOCATED_IN,Germany row: ThyssenKrupp located at 뒤스부르크 handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_wieland_werke_58943445,Country_germany_45bfada5,LOCATED_IN,Germany row: Wieland Werke located at 울름 handles 서스펜션; materials=구리; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_wieland_werke_58943445,Country_germany_45bfada5,LOCATED_IN,Germany row: Wieland Werke located at 울름 handles 기타승용차 부품; materials=구리; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_xiamen_tungsten_306b52bb,Country_china_eb278d21,LOCATED_IN,China row: Xiamen Tungsten located at handles 브레이크; materials=텅스텐; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Country_china_eb278d21,LOCATED_IN,China row: Ynnan tin located at handles 카스테레오-주석; materials=주석; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Country_china_eb278d21,LOCATED_IN,China row: Ynnan tin located at handles 와이어링 하네스; materials=주석; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Country_china_eb278d21,LOCATED_IN,China row: Ynnan tin located at handles 브레이크; materials=주석; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Country_china_eb278d21,LOCATED_IN,China row: Ynnan tin located at handles CDS 수신기; materials=주석; supplies_to=LG Electronics; tier=2.0.,auto_supply_chain.xlsx
+Supplier_교세라_avx_af69bc16,Country_china_eb278d21,LOCATED_IN,China row: 교세라(AVX) located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_대원전선_37d00749,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 대원전선 located at 예산 handles 와이어링 하니스(배선뭉치); materials=구리; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_대진인더스_15b7ae54,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 대진인더스 located at 화성 handles 자율주행/전동화 부품; materials=금; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Supplier_대창_e309ea0c,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 대창 located at 시흥 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 삼성전기 located at 세종 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=탄탈럼; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 삼성전기 located at 세종 handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 세아베스틸 located at 군산 handles 섀시모듈, 타이어모듈, 동력전달장치(액슬); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 세아베스틸 located at 군산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 세아베스틸 located at 군산 handles 현가장치; materials=망간; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 세아베스틸 located at 군산 handles 클러치; materials=망간; supplies_to=평화바레오; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 세아베스틸 located at 군산 handles 차체용 부품; materials=망간; supplies_to=화신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=카펙발레오; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아특수강_87dffc48,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 세아특수강 located at 창원 handles 변속기, 엔진, 섀시; materials=망간; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스; materials=주석; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스(배선뭉치); materials=주석; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 알파코리아 located at 시흥 handles 스마트키 등 전자제어 시스템; materials=주석; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_엠케이전자_7815dd82,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 엠케이전자 located at 음성 handles 램프,전동화 부품, 미러; materials=금; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Supplier_창성_b2d7118e,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 창성 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 풍산 located at 울산 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 풍산 located at 울산 handles 시동모터, 교류발전기; materials=구리; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 풍산 located at 창원 handles 자동차 열관리 시스템; materials=구리; supplies_to=한온시스템; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 풍산 located at 울산 handles 스마트키 등 전자제어 시스템; materials=구리; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_한국분말야금_6500fab7,Country_south_korea_238b8074,LOCATED_IN,"South Korea row: 한국분말야금 located at 아산 handles 변속기, 엔진, 섀시; materials=텅스텐; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 현대제철 located at 당진 handles 섀시모듈; materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 현대제철 located at 포항 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Country_south_korea_238b8074,LOCATED_IN,South Korea row: 현대제철 located at 포항 handles 자동차 엔진/변속기 부품; materials=망간; supplies_to=현대케피코; tier=2.0.,auto_supply_chain.xlsx
+Material_cobalt_60184109,Country_drc_0e7b3872,MINED_FROM,"Cobalt mining: DRC (70%), Indonesia (12%).",scm_related_material_routes.md
+Material_cobalt_60184109,Country_indonesia_d2845120,MINED_FROM,"Cobalt mining: DRC (70%), Indonesia (12%).",scm_related_material_routes.md
+Material_copper_709599b4,Country_chile_5f733eab,MINED_FROM,"Copper mining: Chile (24%), DRC (13%), Peru (12%).",scm_related_material_routes.md
+Material_copper_709599b4,Country_drc_0e7b3872,MINED_FROM,"Copper mining: Chile (24%), DRC (13%), Peru (12%).",scm_related_material_routes.md
+Material_copper_709599b4,Country_peru_5c0a4142,MINED_FROM,"Copper mining: Chile (24%), DRC (13%), Peru (12%).",scm_related_material_routes.md
+Material_gold_c3db7cb8,Country_australia_62095859,MINED_FROM,"Gold mining: China, Russia, Australia.",scm_related_material_routes.md
+Material_gold_c3db7cb8,Country_china_eb278d21,MINED_FROM,"Gold mining: China, Russia, Australia.",scm_related_material_routes.md
+Material_gold_c3db7cb8,Country_russia_1d6c59a7,MINED_FROM,"Gold mining: China, Russia, Australia.",scm_related_material_routes.md
+Material_manganese_3b2931e7,Country_gabon_09cec5c1,MINED_FROM,"Manganese mining: South Africa (38%), Gabon (25%).",scm_related_material_routes.md
+Material_manganese_3b2931e7,Country_south_africa_8b0856bd,MINED_FROM,"Manganese mining: South Africa (38%), Gabon (25%).",scm_related_material_routes.md
+Material_tantalum_43212457,Country_drc_0e7b3872,MINED_FROM,"Tantalum mining: DRC (52%), Rwanda (16%), Nigeria (16%).",scm_related_material_routes.md
+Material_tantalum_43212457,Country_nigeria_2ce5474c,MINED_FROM,"Tantalum mining: DRC (52%), Rwanda (16%), Nigeria (16%).",scm_related_material_routes.md
+Material_tantalum_43212457,Country_rwanda_f0872248,MINED_FROM,"Tantalum mining: DRC (52%), Rwanda (16%), Nigeria (16%).",scm_related_material_routes.md
+Material_tin_1ef1f0c2,Country_china_eb278d21,MINED_FROM,"Tin mining: China, Indonesia, Peru.",scm_related_material_routes.md
+Material_tin_1ef1f0c2,Country_indonesia_d2845120,MINED_FROM,"Tin mining: China, Indonesia, Peru.",scm_related_material_routes.md
+Material_tin_1ef1f0c2,Country_peru_5c0a4142,MINED_FROM,"Tin mining: China, Indonesia, Peru.",scm_related_material_routes.md
+Material_tungsten_bf06b6cf,Country_china_eb278d21,MINED_FROM,"Tungsten mining: China (79%), Vietnam (4%).",scm_related_material_routes.md
+Material_tungsten_bf06b6cf,Country_vietnam_e57e8c88,MINED_FROM,"Tungsten mining: China (79%), Vietnam (4%).",scm_related_material_routes.md
+Route_japan_energy_import_route_via_hormuz_strait_c54f3c53,ChokePoint_hormuz_strait_74e39658,PASSES_THROUGH,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Route_japan_energy_import_route_via_malacca_strait_9ad807db,ChokePoint_malacca_strait_6ff1e577,PASSES_THROUGH,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Route_japan_energy_import_route_via_south_china_sea_3d8fc56d,SeaRegion_south_china_sea_be8aaf40,PASSES_THROUGH,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Route_route_barcelona_mediterranean_suez_same_route_d5586fdc,ChokePoint_suez_canal_8ca4857a,PASSES_THROUGH,Barcelona → Mediterranean → Suez → same route,scm_related_material_routes.md
+Route_route_barcelona_mediterranean_suez_same_route_d5586fdc,SeaRegion_mediterranean_3bae487e,PASSES_THROUGH,Barcelona → Mediterranean → Suez → same route,scm_related_material_routes.md
+Route_route_china_china_coast_korea_2acf26fe,SeaRegion_china_coast_545c1ce2,PASSES_THROUGH,China → China Coast → Korea,scm_related_material_routes.md
+Route_route_constanta_black_sea_turkish_strait_suez_same_route_994ef242,ChokePoint_suez_canal_8ca4857a,PASSES_THROUGH,Constanta → Black Sea → Turkish Strait → Suez → same route,scm_related_material_routes.md
+Route_route_constanta_black_sea_turkish_strait_suez_same_route_994ef242,ChokePoint_turkish_strait_4aa7aa70,PASSES_THROUGH,Constanta → Black Sea → Turkish Strait → Suez → same route,scm_related_material_routes.md
+Route_route_constanta_black_sea_turkish_strait_suez_same_route_994ef242,SeaRegion_black_sea_5cb61936,PASSES_THROUGH,Constanta → Black Sea → Turkish Strait → Suez → same route,scm_related_material_routes.md
+Route_route_rotterdam_hamburg_north_sea_uk_mediterranean_suez_canal_red_sea_indian_ocean_malacca_strait_singapore_china_korea_fc1d53dc,ChokePoint_malacca_strait_6ff1e577,PASSES_THROUGH,Rotterdam/Hamburg → North Sea → UK → Mediterranean → Suez Canal → Red Sea → Indian Ocean → Malacca Strait → Singapore → China → Korea,scm_related_material_routes.md
+Route_route_rotterdam_hamburg_north_sea_uk_mediterranean_suez_canal_red_sea_indian_ocean_malacca_strait_singapore_china_korea_fc1d53dc,ChokePoint_singapore_hub_63b721e0,PASSES_THROUGH,Rotterdam/Hamburg → North Sea → UK → Mediterranean → Suez Canal → Red Sea → Indian Ocean → Malacca Strait → Singapore → China → Korea,scm_related_material_routes.md
+Route_route_rotterdam_hamburg_north_sea_uk_mediterranean_suez_canal_red_sea_indian_ocean_malacca_strait_singapore_china_korea_fc1d53dc,ChokePoint_suez_canal_8ca4857a,PASSES_THROUGH,Rotterdam/Hamburg → North Sea → UK → Mediterranean → Suez Canal → Red Sea → Indian Ocean → Malacca Strait → Singapore → China → Korea,scm_related_material_routes.md
+Route_route_rotterdam_hamburg_north_sea_uk_mediterranean_suez_canal_red_sea_indian_ocean_malacca_strait_singapore_china_korea_fc1d53dc,Region_uk_6288f5c4,PASSES_THROUGH,Rotterdam/Hamburg → North Sea → UK → Mediterranean → Suez Canal → Red Sea → Indian Ocean → Malacca Strait → Singapore → China → Korea,scm_related_material_routes.md
+Route_route_rotterdam_hamburg_north_sea_uk_mediterranean_suez_canal_red_sea_indian_ocean_malacca_strait_singapore_china_korea_fc1d53dc,SeaRegion_indian_ocean_6bd8d325,PASSES_THROUGH,Rotterdam/Hamburg → North Sea → UK → Mediterranean → Suez Canal → Red Sea → Indian Ocean → Malacca Strait → Singapore → China → Korea,scm_related_material_routes.md
+Route_route_rotterdam_hamburg_north_sea_uk_mediterranean_suez_canal_red_sea_indian_ocean_malacca_strait_singapore_china_korea_fc1d53dc,SeaRegion_mediterranean_3bae487e,PASSES_THROUGH,Rotterdam/Hamburg → North Sea → UK → Mediterranean → Suez Canal → Red Sea → Indian Ocean → Malacca Strait → Singapore → China → Korea,scm_related_material_routes.md
+Route_route_rotterdam_hamburg_north_sea_uk_mediterranean_suez_canal_red_sea_indian_ocean_malacca_strait_singapore_china_korea_fc1d53dc,SeaRegion_north_sea_1e3024b2,PASSES_THROUGH,Rotterdam/Hamburg → North Sea → UK → Mediterranean → Suez Canal → Red Sea → Indian Ocean → Malacca Strait → Singapore → China → Korea,scm_related_material_routes.md
+Route_route_rotterdam_hamburg_north_sea_uk_mediterranean_suez_canal_red_sea_indian_ocean_malacca_strait_singapore_china_korea_fc1d53dc,SeaRegion_red_sea_8a83dc1f,PASSES_THROUGH,Rotterdam/Hamburg → North Sea → UK → Mediterranean → Suez Canal → Red Sea → Indian Ocean → Malacca Strait → Singapore → China → Korea,scm_related_material_routes.md
+Route_route_thailand_gulf_of_thailand_china_korea_42e7d488,SeaRegion_gulf_of_thailand_b4d65af3,PASSES_THROUGH,Thailand → Gulf of Thailand → China → Korea,scm_related_material_routes.md
+Route_route_vietnam_gulf_of_tonkin_china_korea_e2d6f1b9,SeaRegion_gulf_of_tonkin_8828cfac,PASSES_THROUGH,Vietnam → Gulf of Tonkin → China → Korea,scm_related_material_routes.md
+Route_south_korea_energy_import_route_via_hormuz_strait_35aa2c7e,ChokePoint_hormuz_strait_74e39658,PASSES_THROUGH,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Route_south_korea_energy_import_route_via_malacca_strait_aa3eda7e,ChokePoint_malacca_strait_6ff1e577,PASSES_THROUGH,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Route_south_korea_energy_import_route_via_south_china_sea_30d836ee,SeaRegion_south_china_sea_be8aaf40,PASSES_THROUGH,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Company_autoliv_413a921b,Product_안전벨트_54279865,PRODUCES,Thailand row: Autoliv located at 라용 handles 안전벨트; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_bosch_e8e30ffa,Product_서스펜션_5b0f029b,PRODUCES,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_continental_b623b44c,Product_범퍼_ef7c3397,PRODUCES,Germany row: Continental located at 하노버 handles 범퍼; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_continental_b623b44c,Product_브레이크_부스터_6c3f7e88,PRODUCES,Romania row: Continental located at 시비우 handles 브레이크 부스터; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_denso_b7739daa,Product_브레이크_991cfa82,PRODUCES,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_ficosa_c7caefd6,Product_카스테레오_ae504af1,PRODUCES,"Spain row: Ficosa located at 바르셀로나 handles 카스테레오; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_grupo_antolin_4cce34c8,Product_카스테레오_블루투스_dfc88d81,PRODUCES,"Spain row: Grupo Antolin located at 부르고스 handles 카스테레오(블루투스); materials=주석,금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_hanon_systems_cdfe2c02,Product_라디에이터_49846aca,PRODUCES,China row: Hanon Systems located at 상하이 handles 라디에이터; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hanon_systems_cdfe2c02,Product_에어컨_4e1bc54e,PRODUCES,China row: Hanon Systems located at 충칭 handles 에어컨; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hitachi_astemo_c2248da7,Product_브레이크_장치_386d1ed3,PRODUCES,China row: Hitachi Astemo located at 광저우 handles 브레이크 장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hl만도_8fdd8fcf,Product_제동장치_fedddf48,PRODUCES,"South Korea row: HL만도 located at 평택 handles 제동장치; materials=주석,탄탈럼; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_hl만도_8fdd8fcf,Product_조향장치_7a108f90,PRODUCES,South Korea row: HL만도 located at 원주 handles 조향장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hl만도_8fdd8fcf,Product_현가장치_984eb9d6,PRODUCES,"South Korea row: HL만도 located at 익산 handles 현가장치; materials=구리,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_hl만도_hl만도브로제_6c11ee60,Product_조향장치_7a108f90,PRODUCES,South Korea row: HL만도(HL만도브로제) located at 인천 handles 조향장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hl만도_hl클레무브_639cb150,Product_자율주행_전동화_부품_ccb6b83f,PRODUCES,"South Korea row: HL만도(HL클레무브) located at 인천 handles 자율주행/전동화 부품; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_hyundai_kefico_caad7aa6,Product_경보기_19cd6501,PRODUCES,China row: Hyundai Kefico located at 하노이 handles 경보기; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_mobis_67ae806b,Product_브레이크부품_5d2aeb95,PRODUCES,China row: Hyundai Mobis located at 우시 handles 브레이크부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_mobis_67ae806b,Product_에어백_1ac0d5c4,PRODUCES,China row: Hyundai Mobis located at 창저우 handles 에어백; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_mobis_67ae806b,Product_에어백모듈_4242b80d,PRODUCES,China row: Hyundai Mobis located at 베이징 handles 에어백모듈; materials=금; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_mobis_67ae806b,Product_카스테레오_ae504af1,PRODUCES,China row: Hyundai Mobis located at 장쑤 handles 카스테레오; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_transys_e1735560,Product_구동차축_8ef8f2e4,PRODUCES,China row: Hyundai Transys located at 창춘 handles 구동차축; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_transys_e1735560,Product_시트_1da01a0b,PRODUCES,China row: Hyundai Transys located at 베이징 handles 시트; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_wia_66450aeb,Product_바퀴축_b4ae4d74,PRODUCES,China row: Hyundai WIA located at 칭다오 handles 바퀴축; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_hyundai_wia_66450aeb,Product_차륜_113f8dfd,PRODUCES,China row: Hyundai WIA located at 산둥 handles 차륜; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_kyb_df1dffe7,Product_서스펜션_5b0f029b,PRODUCES,Japan row: KYB located at 기후 handles 서스펜션; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_kyungshin_6af4d113,Product_와이어링_하니스_902b3fcc,PRODUCES,"China row: Kyungshin located at 옌타이 handles 와이어링 하니스; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_lg_electronics_11f2225f,Product_cds_수신기_0fe62b7a,PRODUCES,China row: LG Electronics located at 난징 handles CDS 수신기; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_mando_5070089e,Product_브레이크_991cfa82,PRODUCES,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_mando_5070089e,Product_조향장치_7a108f90,PRODUCES,China row: Mando located at 쑤저우 handles 조향장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_mann_hummel_030fa9d4,Product_에어필터_23f13a8e,PRODUCES,China row: MANN+HUMMEL located at 상하이 handles 에어필터; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_sl_corporation_76943b4e,Product_파미러_63292a64,PRODUCES,China row: SL Corporation located at 톈진 handles 파미러; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_yanfeng_automotive_1dc39d88,Product_기타차량부품_3552948a,PRODUCES,China row: Yanfeng Automotive located at 상하이 handles 기타차량부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_zf_4093b779,Product_기타승용차부품_2d3da5b3,PRODUCES,"Germany row: ZF located at 프리드리히스하펜 handles 기타승용차부품; materials=망간, 구리, 주석, 탄탈럼,금, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_경신_5e2dd99f,Product_와이어링_하니스_배선뭉치_09714a4f,PRODUCES,"South Korea row: 경신 located at 경주/화성/군산 handles 와이어링 하니스(배선뭉치); materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_다스_9d9e8fa6,Product_자동차용_시트_9ad6e5d0,PRODUCES,South Korea row: 다스 located at 경주 handles 자동차용 시트; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_대원산업_41814848,Product_자동차용_시트_9ad6e5d0,PRODUCES,South Korea row: 대원산업 located at 안산/시흥/평택/서산 handles 자동차용 시트; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_덕양산업_0091bd22,Product_운전석_모듈_door_trim_05eb30d9,PRODUCES,"South Korea row: 덕양산업 located at 울산/진천/창원/대구 handles 운전석 모듈,Door Trim; materials=; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_모베이시스전자_173de7c7,Product_스마트키_등_전자제어_시스템_e922019e,PRODUCES,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_발레오전장시스템코리아_502e5f67,Product_시동모터_교류발전기_99eb8b56,PRODUCES,"South Korea row: 발레오전장시스템코리아 located at 경주 handles 시동모터, 교류발전기; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_비테스코테크놀로지스_9b2bfac9,Product_동력전달장치_33900a00,PRODUCES,South Korea row: 비테스코테크놀로지스 located at 이천 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_서진산업_287a85f6,Product_차체용_부품_b4f8f5ee,PRODUCES,South Korea row: 서진산업 located at 경주/화성/시흥/광주 handles 차체용 부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_성우하이텍_3a9c298b,Product_차체용_부품_b4f8f5ee,PRODUCES,South Korea row: 성우하이텍 located at 양산/부산/경주 handles 차체용 부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_에스엘_7bcd559e,Product_램프_전동화_부품_미러_2728e408,PRODUCES,"South Korea row: 에스엘 located at 천안/대구 handles 램프,전동화 부품, 미러; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_유라코퍼레이션_2588aa1a,Product_와이어링_하니스_902b3fcc,PRODUCES,"South Korea row: 유라코퍼레이션 located at 청주/평택/경주 handles 와이어링 하니스; materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_지엠비코리아_cd8d0c22,Product_변속기_엔진_섀시_78ad3f26,PRODUCES,"South Korea row: 지엠비코리아 located at 창원/서산 handles 변속기, 엔진, 섀시; materials=텅스텐,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_카펙발레오_425e39cf,Product_동력전달장치_33900a00,PRODUCES,South Korea row: 카펙발레오 located at 칠곡/성주 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_평화바레오_feb723b6,Product_클러치_21719c62,PRODUCES,South Korea row: 평화바레오 located at 대구/고령 handles 클러치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_피에이치에이_aa5b0457,Product_차량용_도어_개폐장치_5a4c0d46,PRODUCES,South Korea row: 피에이치에이 located at 대구 handles 차량용 도어 개폐장치; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_한온시스템_9d7833b6,Product_자동차_열관리_시스템_d32985a1,PRODUCES,South Korea row: 한온시스템 located at 울산 handles 자동차 열관리 시스템; materials=구리; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대모비스_e636ba5b,Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,PRODUCES,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_현대모비스_모트라스_c114e4cc,Product_자동차_모듈_ac33613b,PRODUCES,South Korea row: 현대모비스(모트라스) located at 아산/울산/안양/화성/평택/천안/서산/광주 handles 자동차 모듈; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대모비스_유니투스_c5404582,Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,PRODUCES,"South Korea row: 현대모비스(유니투스) located at 아산/평택/천안/충주/김천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=주석, 금,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_현대위아_e20d69f3,Product_동력전달장치_액슬_등속조인트_920946d6,PRODUCES,"South Korea row: 현대위아 located at 창원 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_현대위아_e20d69f3,Product_섀시모듈_e7a2f74e,PRODUCES,South Korea row: 현대위아 located at 안산 handles 섀시모듈; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대위아_e20d69f3,Product_섀시모듈_타이어모듈_동력전달장치_액슬_c14bc7ca,PRODUCES,"South Korea row: 현대위아 located at 광주 handles 섀시모듈, 타이어모듈, 동력전달장치(액슬); materials=망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Company_현대위아_e20d69f3,Product_자동차_엔진_부품_크랭크_샤프트_e9e83917,PRODUCES,South Korea row: 현대위아 located at 울산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대케피코_4a96187d,Product_자동차_엔진_변속기_부품_dc2643b9,PRODUCES,South Korea row: 현대케피코 located at 군포 handles 자동차 엔진/변속기 부품; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대트랜시스_fdd83181,Product_동력전달장치_33900a00,PRODUCES,South Korea row: 현대트랜시스 located at 서산 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_현대트랜시스_현대엠시트_6fcefbfa,Product_자동차용_시트_및_시트부품_228f0a08,PRODUCES,South Korea row: 현대트랜시스(현대엠시트) located at 아산/울산/경주 handles 자동차용 시트 및 시트부품; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Company_화신_4e71503a,Product_차체용_부품_b4f8f5ee,PRODUCES,South Korea row: 화신 located at 영천/예산 handles 차체용 부품; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_aichi_steel_d8ce95f2,Material_manganese_3b2931e7,PRODUCES,Japan row: Aichi steel located at handles 브레이크; materials=망간; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_aichi_steel_d8ce95f2,Product_브레이크_991cfa82,PRODUCES,Japan row: Aichi steel located at handles 브레이크; materials=망간; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_almt_7af0fec8,Material_tungsten_bf06b6cf,PRODUCES,Japan row: ALMT located at handles 브레이크; materials=텅스텐; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_almt_7af0fec8,Product_브레이크_991cfa82,PRODUCES,Japan row: ALMT located at handles 브레이크; materials=텅스텐; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Material_tin_1ef1f0c2,PRODUCES,Germany row: alpha assembly solutions located at Langenfeld handles 기타승용차 부품; materials=주석; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Material_tin_1ef1f0c2,PRODUCES,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오; materials=주석; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Material_tin_1ef1f0c2,PRODUCES,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오(블루투스); materials=주석; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Product_기타승용차_부품_21e1938f,PRODUCES,Germany row: alpha assembly solutions located at Langenfeld handles 기타승용차 부품; materials=주석; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Product_카스테레오_ae504af1,PRODUCES,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오; materials=주석; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Product_카스테레오_블루투스_dfc88d81,PRODUCES,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오(블루투스); materials=주석; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_chuo_spring_e5a46ac5,Material_manganese_3b2931e7,PRODUCES,Japan row: Chuo spring located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_chuo_spring_e5a46ac5,Product_서스펜션_5b0f029b,PRODUCES,Japan row: Chuo spring located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Material_manganese_3b2931e7,PRODUCES,"South Korea row: DB메탈 located at 동해 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Material_manganese_3b2931e7,PRODUCES,"South Korea row: DB메탈 located at 동해 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Material_manganese_3b2931e7,PRODUCES,"South Korea row: DB메탈 located at 동해 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Material_manganese_3b2931e7,PRODUCES,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Material_manganese_3b2931e7,PRODUCES,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=비테스코테크놀로지스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Product_동력전달장치_33900a00,PRODUCES,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Product_동력전달장치_33900a00,PRODUCES,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=비테스코테크놀로지스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Product_동력전달장치_액슬_등속조인트_920946d6,PRODUCES,"South Korea row: DB메탈 located at 동해 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,PRODUCES,"South Korea row: DB메탈 located at 동해 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,PRODUCES,"South Korea row: DB메탈 located at 동해 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_h_c_starck_3cf751b8,Material_텅스텐_탄탈럼_24581760,PRODUCES,Germany row: H.C. Starck located at handles 서스펜션; materials=텅스텐 탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_h_c_starck_3cf751b8,Product_서스펜션_5b0f029b,PRODUCES,Germany row: H.C. Starck located at handles 서스펜션; materials=텅스텐 탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_b016e8a0,Material_gold_c3db7cb8,PRODUCES,Germany row: Heraeus located at Hanau handles 서스펜션; materials=금; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_b016e8a0,Material_gold_c3db7cb8,PRODUCES,Germany row: Heraeus located at Hanau handles 기타승용차 부품; materials=금; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_b016e8a0,Product_기타승용차_부품_21e1938f,PRODUCES,Germany row: Heraeus located at Hanau handles 기타승용차 부품; materials=금; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_b016e8a0,Product_서스펜션_5b0f029b,PRODUCES,Germany row: Heraeus located at Hanau handles 서스펜션; materials=금; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Material_gold_c3db7cb8,PRODUCES,Germany row: heraeus electronics located at Hanau handles 카스테레오; materials=금; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Material_gold_c3db7cb8,PRODUCES,Germany row: heraeus electronics located at Hanau handles 카스테레오(블루투스); materials=금; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Product_카스테레오_ae504af1,PRODUCES,Germany row: heraeus electronics located at Hanau handles 카스테레오; materials=금; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Product_카스테레오_블루투스_dfc88d81,PRODUCES,Germany row: heraeus electronics located at Hanau handles 카스테레오(블루투스); materials=금; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jfe_steel_c3cf32e4,Material_manganese_3b2931e7,PRODUCES,Japan row: JFE steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jfe_steel_c3cf32e4,Product_서스펜션_5b0f029b,PRODUCES,Japan row: JFE steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jiangxi_copper_fbdf6578,Material_copper_709599b4,PRODUCES,China row: jiangxi copper located at handles 와이어링 하네스; materials=구리; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jiangxi_copper_fbdf6578,Product_와이어링_하네스_8053260c,PRODUCES,China row: jiangxi copper located at handles 와이어링 하네스; materials=구리; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jilin_ferroalloys_3c2e5d87,Material_manganese_3b2931e7,PRODUCES,China row: jilin Ferroalloys located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jilin_ferroalloys_3c2e5d87,Product_구동차축_8ef8f2e4,PRODUCES,China row: jilin Ferroalloys located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Material_tantalum_43212457,PRODUCES,China row: KEMET located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Material_tantalum_43212457,PRODUCES,Portugal row: KEMET located at Évora handles 서스펜션; materials=탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Material_tantalum_43212457,PRODUCES,Portugal row: KEMET located at Évora handles 기타승용차 부품; materials=탄탈럼; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Material_tantalum_43212457,PRODUCES,China row: KEMET located at Suzhou handles 제동장치; materials=탄탈럼; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Material_tantalum_43212457,PRODUCES,China row: KEMET located at Suzhou handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Product_기타승용차_부품_21e1938f,PRODUCES,Portugal row: KEMET located at Évora handles 기타승용차 부품; materials=탄탈럼; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Product_브레이크_991cfa82,PRODUCES,China row: KEMET located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Product_서스펜션_5b0f029b,PRODUCES,Portugal row: KEMET located at Évora handles 서스펜션; materials=탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Product_스마트키_등_전자제어_시스템_e922019e,PRODUCES,China row: KEMET located at Suzhou handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Product_제동장치_fedddf48,PRODUCES,China row: KEMET located at Suzhou handles 제동장치; materials=탄탈럼; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ls전선_8ba93ce3,Material_copper_709599b4,PRODUCES,South Korea row: LS전선 located at 구미 handles 와이어링 하니스; materials=구리; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ls전선_8ba93ce3,Product_와이어링_하니스_902b3fcc,PRODUCES,South Korea row: LS전선 located at 구미 handles 와이어링 하니스; materials=구리; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Material_gold_c3db7cb8,PRODUCES,"South Korea row: LT메탈 located at 인천 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금, 주석; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Material_gold_c3db7cb8,PRODUCES,"South Korea row: LT메탈 located at 인천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=금, 주석; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Material_gold_c3db7cb8,PRODUCES,South Korea row: LT메탈 located at 인천 handles 스마트키 등 전자제어 시스템; materials=금; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Material_tin_1ef1f0c2,PRODUCES,"South Korea row: LT메탈 located at 인천 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금, 주석; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Material_tin_1ef1f0c2,PRODUCES,"South Korea row: LT메탈 located at 인천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=금, 주석; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Material_tin_1ef1f0c2,PRODUCES,South Korea row: LT메탈 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Material_tin_1ef1f0c2,PRODUCES,South Korea row: LT메탈 located at 인천 handles 자율주행/전동화 부품; materials=주석; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Material_tin_1ef1f0c2,PRODUCES,"South Korea row: LT메탈 located at 인천 handles 램프,전동화 부품, 미러; materials=주석; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Material_tin_1ef1f0c2,PRODUCES,"South Korea row: LT메탈 located at 인천 handles 시동모터, 교류발전기; materials=주석; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Product_램프_전동화_부품_미러_2728e408,PRODUCES,"South Korea row: LT메탈 located at 인천 handles 램프,전동화 부품, 미러; materials=주석; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,PRODUCES,"South Korea row: LT메탈 located at 인천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=금, 주석; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,PRODUCES,"South Korea row: LT메탈 located at 인천 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금, 주석; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Product_스마트키_등_전자제어_시스템_e922019e,PRODUCES,South Korea row: LT메탈 located at 인천 handles 스마트키 등 전자제어 시스템; materials=금; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Product_시동모터_교류발전기_99eb8b56,PRODUCES,"South Korea row: LT메탈 located at 인천 handles 시동모터, 교류발전기; materials=주석; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Product_자율주행_전동화_부품_ccb6b83f,PRODUCES,South Korea row: LT메탈 located at 인천 handles 자율주행/전동화 부품; materials=주석; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Product_제동장치_fedddf48,PRODUCES,South Korea row: LT메탈 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_소주_연태_1454b731,Material_gold_c3db7cb8,PRODUCES,"China row: LT메탈(소주/연태) located at 심천, 천진 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_소주_연태_1454b731,Product_에어백_모듈_fe3e6a0b,PRODUCES,"China row: LT메탈(소주/연태) located at 심천, 천진 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.",auto_supply_chain.xlsx
+Supplier_metalor_3c1ee235,Material_gold_c3db7cb8,PRODUCES,China row: metalor located at 소주 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Supplier_metalor_3c1ee235,Product_에어백_모듈_fe3e6a0b,PRODUCES,China row: metalor located at 소주 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Supplier_murata_1ce1c987,Material_tantalum_43212457,PRODUCES,Japan row: murata located at handles 브레이크; materials=탄탈럼; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_murata_1ce1c987,Product_브레이크_991cfa82,PRODUCES,Japan row: murata located at handles 브레이크; materials=탄탈럼; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ningxia_tianyuan_manganese_584fa8df,Material_manganese_3b2931e7,PRODUCES,China row: Ningxia tianyuan Manganese located at handles 브레이크; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ningxia_tianyuan_manganese_584fa8df,Product_브레이크_991cfa82,PRODUCES,China row: Ningxia tianyuan Manganese located at handles 브레이크; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_nippon_steel_338b7532,Material_manganese_3b2931e7,PRODUCES,Japan row: Nippon steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_nippon_steel_338b7532,Product_서스펜션_5b0f029b,PRODUCES,Japan row: Nippon steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_posco_china_94b93d1d,Material_manganese_3b2931e7,PRODUCES,China row: posco china located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_posco_china_94b93d1d,Product_구동차축_8ef8f2e4,PRODUCES,China row: posco china located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_saarstahl_79036940,Material_manganese_3b2931e7,PRODUCES,Germany row: Saarstahl located at handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_saarstahl_79036940,Material_manganese_3b2931e7,PRODUCES,Germany row: Saarstahl located at handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_saarstahl_79036940,Product_기타승용차_부품_21e1938f,PRODUCES,Germany row: Saarstahl located at handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_saarstahl_79036940,Product_서스펜션_5b0f029b,PRODUCES,Germany row: Saarstahl located at handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_senju_metal_industry_e214dc6f,Material_tin_1ef1f0c2,PRODUCES,Japan row: senju metal industry located at handles 브레이크; materials=주석; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_senju_metal_industry_e214dc6f,Product_브레이크_991cfa82,PRODUCES,Japan row: senju metal industry located at handles 브레이크; materials=주석; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Material_manganese_3b2931e7,PRODUCES,"South Korea row: SIMPACK located at 포함 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Material_manganese_3b2931e7,PRODUCES,"South Korea row: SIMPACK located at 포함 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Material_manganese_3b2931e7,PRODUCES,"South Korea row: SIMPACK located at 포함 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Product_동력전달장치_액슬_등속조인트_920946d6,PRODUCES,"South Korea row: SIMPACK located at 포함 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,PRODUCES,"South Korea row: SIMPACK located at 포함 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,PRODUCES,"South Korea row: SIMPACK located at 포함 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_sumitomo_metal_mining_2b650d60,Material_cobalt_60184109,PRODUCES,"Japan row: Sumitomo metal mining located at handles 브레이크; materials=코발트,구리; supplies_to=Denso; tier=2.0.",auto_supply_chain.xlsx
+Supplier_sumitomo_metal_mining_2b650d60,Material_copper_709599b4,PRODUCES,"Japan row: Sumitomo metal mining located at handles 브레이크; materials=코발트,구리; supplies_to=Denso; tier=2.0.",auto_supply_chain.xlsx
+Supplier_sumitomo_metal_mining_2b650d60,Product_브레이크_991cfa82,PRODUCES,"Japan row: Sumitomo metal mining located at handles 브레이크; materials=코발트,구리; supplies_to=Denso; tier=2.0.",auto_supply_chain.xlsx
+Supplier_tanaka_kikinzoku_3350acf9,Material_gold_c3db7cb8,PRODUCES,Japan row: Tanaka kikinzoku located at handles 브레이크; materials=금; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_tanaka_kikinzoku_3350acf9,Product_브레이크_991cfa82,PRODUCES,Japan row: Tanaka kikinzoku located at handles 브레이크; materials=금; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_thyssenkrupp_09f31296,Material_manganese_3b2931e7,PRODUCES,Germany row: ThyssenKrupp located at 뒤스부르크 handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_thyssenkrupp_09f31296,Material_manganese_3b2931e7,PRODUCES,Germany row: ThyssenKrupp located at 뒤스부르크 handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_thyssenkrupp_09f31296,Product_기타승용차_부품_21e1938f,PRODUCES,Germany row: ThyssenKrupp located at 뒤스부르크 handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_thyssenkrupp_09f31296,Product_서스펜션_5b0f029b,PRODUCES,Germany row: ThyssenKrupp located at 뒤스부르크 handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_wieland_werke_58943445,Material_copper_709599b4,PRODUCES,Germany row: Wieland Werke located at 울름 handles 서스펜션; materials=구리; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_wieland_werke_58943445,Material_copper_709599b4,PRODUCES,Germany row: Wieland Werke located at 울름 handles 기타승용차 부품; materials=구리; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_wieland_werke_58943445,Product_기타승용차_부품_21e1938f,PRODUCES,Germany row: Wieland Werke located at 울름 handles 기타승용차 부품; materials=구리; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_wieland_werke_58943445,Product_서스펜션_5b0f029b,PRODUCES,Germany row: Wieland Werke located at 울름 handles 서스펜션; materials=구리; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_xiamen_tungsten_306b52bb,Material_tungsten_bf06b6cf,PRODUCES,China row: Xiamen Tungsten located at handles 브레이크; materials=텅스텐; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_xiamen_tungsten_306b52bb,Product_브레이크_991cfa82,PRODUCES,China row: Xiamen Tungsten located at handles 브레이크; materials=텅스텐; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Material_tin_1ef1f0c2,PRODUCES,China row: Ynnan tin located at handles 카스테레오-주석; materials=주석; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Material_tin_1ef1f0c2,PRODUCES,China row: Ynnan tin located at handles 와이어링 하네스; materials=주석; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Material_tin_1ef1f0c2,PRODUCES,China row: Ynnan tin located at handles 브레이크; materials=주석; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Material_tin_1ef1f0c2,PRODUCES,China row: Ynnan tin located at handles CDS 수신기; materials=주석; supplies_to=LG Electronics; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Product_cds_수신기_0fe62b7a,PRODUCES,China row: Ynnan tin located at handles CDS 수신기; materials=주석; supplies_to=LG Electronics; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Product_브레이크_991cfa82,PRODUCES,China row: Ynnan tin located at handles 브레이크; materials=주석; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Product_와이어링_하네스_8053260c,PRODUCES,China row: Ynnan tin located at handles 와이어링 하네스; materials=주석; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Product_카스테레오_주석_edb1068b,PRODUCES,China row: Ynnan tin located at handles 카스테레오-주석; materials=주석; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Supplier_교세라_avx_af69bc16,Material_tantalum_43212457,PRODUCES,China row: 교세라(AVX) located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_교세라_avx_af69bc16,Product_브레이크_991cfa82,PRODUCES,China row: 교세라(AVX) located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_대원전선_37d00749,Material_copper_709599b4,PRODUCES,South Korea row: 대원전선 located at 예산 handles 와이어링 하니스(배선뭉치); materials=구리; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_대원전선_37d00749,Product_와이어링_하니스_배선뭉치_09714a4f,PRODUCES,South Korea row: 대원전선 located at 예산 handles 와이어링 하니스(배선뭉치); materials=구리; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_대진인더스_15b7ae54,Material_gold_c3db7cb8,PRODUCES,South Korea row: 대진인더스 located at 화성 handles 자율주행/전동화 부품; materials=금; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Supplier_대진인더스_15b7ae54,Product_자율주행_전동화_부품_ccb6b83f,PRODUCES,South Korea row: 대진인더스 located at 화성 handles 자율주행/전동화 부품; materials=금; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Supplier_대창_e309ea0c,Material_copper_709599b4,PRODUCES,South Korea row: 대창 located at 시흥 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_대창_e309ea0c,Product_현가장치_984eb9d6,PRODUCES,South Korea row: 대창 located at 시흥 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Material_tantalum_43212457,PRODUCES,"South Korea row: 삼성전기 located at 세종 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=탄탈럼; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Material_tantalum_43212457,PRODUCES,South Korea row: 삼성전기 located at 세종 handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,PRODUCES,"South Korea row: 삼성전기 located at 세종 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=탄탈럼; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Product_스마트키_등_전자제어_시스템_e922019e,PRODUCES,South Korea row: 삼성전기 located at 세종 handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Material_manganese_3b2931e7,PRODUCES,"South Korea row: 세아베스틸 located at 군산 handles 섀시모듈, 타이어모듈, 동력전달장치(액슬); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Material_manganese_3b2931e7,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Material_manganese_3b2931e7,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 현가장치; materials=망간; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Material_manganese_3b2931e7,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Material_manganese_3b2931e7,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 클러치; materials=망간; supplies_to=평화바레오; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Material_manganese_3b2931e7,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 차체용 부품; materials=망간; supplies_to=화신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Material_manganese_3b2931e7,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=카펙발레오; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Product_동력전달장치_33900a00,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Product_동력전달장치_33900a00,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=카펙발레오; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Product_섀시모듈_타이어모듈_동력전달장치_액슬_c14bc7ca,PRODUCES,"South Korea row: 세아베스틸 located at 군산 handles 섀시모듈, 타이어모듈, 동력전달장치(액슬); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Product_자동차_엔진_부품_크랭크_샤프트_e9e83917,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Product_차체용_부품_b4f8f5ee,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 차체용 부품; materials=망간; supplies_to=화신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Product_클러치_21719c62,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 클러치; materials=망간; supplies_to=평화바레오; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Product_현가장치_984eb9d6,PRODUCES,South Korea row: 세아베스틸 located at 군산 handles 현가장치; materials=망간; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아특수강_87dffc48,Material_manganese_3b2931e7,PRODUCES,"South Korea row: 세아특수강 located at 창원 handles 변속기, 엔진, 섀시; materials=망간; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_세아특수강_87dffc48,Product_변속기_엔진_섀시_78ad3f26,PRODUCES,"South Korea row: 세아특수강 located at 창원 handles 변속기, 엔진, 섀시; materials=망간; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Material_tin_1ef1f0c2,PRODUCES,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스; materials=주석; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Material_tin_1ef1f0c2,PRODUCES,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스(배선뭉치); materials=주석; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Material_tin_1ef1f0c2,PRODUCES,South Korea row: 알파코리아 located at 시흥 handles 스마트키 등 전자제어 시스템; materials=주석; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Product_스마트키_등_전자제어_시스템_e922019e,PRODUCES,South Korea row: 알파코리아 located at 시흥 handles 스마트키 등 전자제어 시스템; materials=주석; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Product_와이어링_하니스_902b3fcc,PRODUCES,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스; materials=주석; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Product_와이어링_하니스_배선뭉치_09714a4f,PRODUCES,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스(배선뭉치); materials=주석; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_엠케이전자_7815dd82,Material_gold_c3db7cb8,PRODUCES,"South Korea row: 엠케이전자 located at 음성 handles 램프,전동화 부품, 미러; materials=금; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Supplier_엠케이전자_7815dd82,Product_램프_전동화_부품_미러_2728e408,PRODUCES,"South Korea row: 엠케이전자 located at 음성 handles 램프,전동화 부품, 미러; materials=금; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Supplier_창성_b2d7118e,Material_tin_1ef1f0c2,PRODUCES,South Korea row: 창성 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_창성_b2d7118e,Product_제동장치_fedddf48,PRODUCES,South Korea row: 창성 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Material_copper_709599b4,PRODUCES,South Korea row: 풍산 located at 울산 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Material_copper_709599b4,PRODUCES,"South Korea row: 풍산 located at 울산 handles 시동모터, 교류발전기; materials=구리; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Material_copper_709599b4,PRODUCES,South Korea row: 풍산 located at 창원 handles 자동차 열관리 시스템; materials=구리; supplies_to=한온시스템; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Material_copper_709599b4,PRODUCES,South Korea row: 풍산 located at 울산 handles 스마트키 등 전자제어 시스템; materials=구리; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Product_스마트키_등_전자제어_시스템_e922019e,PRODUCES,South Korea row: 풍산 located at 울산 handles 스마트키 등 전자제어 시스템; materials=구리; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Product_시동모터_교류발전기_99eb8b56,PRODUCES,"South Korea row: 풍산 located at 울산 handles 시동모터, 교류발전기; materials=구리; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Product_자동차_열관리_시스템_d32985a1,PRODUCES,South Korea row: 풍산 located at 창원 handles 자동차 열관리 시스템; materials=구리; supplies_to=한온시스템; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Product_현가장치_984eb9d6,PRODUCES,South Korea row: 풍산 located at 울산 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_한국분말야금_6500fab7,Material_tungsten_bf06b6cf,PRODUCES,"South Korea row: 한국분말야금 located at 아산 handles 변속기, 엔진, 섀시; materials=텅스텐; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_한국분말야금_6500fab7,Product_변속기_엔진_섀시_78ad3f26,PRODUCES,"South Korea row: 한국분말야금 located at 아산 handles 변속기, 엔진, 섀시; materials=텅스텐; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Material_manganese_3b2931e7,PRODUCES,South Korea row: 현대제철 located at 당진 handles 섀시모듈; materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Material_manganese_3b2931e7,PRODUCES,South Korea row: 현대제철 located at 포항 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Material_manganese_3b2931e7,PRODUCES,South Korea row: 현대제철 located at 포항 handles 자동차 엔진/변속기 부품; materials=망간; supplies_to=현대케피코; tier=2.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Product_섀시모듈_e7a2f74e,PRODUCES,South Korea row: 현대제철 located at 당진 handles 섀시모듈; materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Product_자동차_엔진_변속기_부품_dc2643b9,PRODUCES,South Korea row: 현대제철 located at 포항 handles 자동차 엔진/변속기 부품; materials=망간; supplies_to=현대케피코; tier=2.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Product_자동차_엔진_부품_크랭크_샤프트_e9e83917,PRODUCES,South Korea row: 현대제철 located at 포항 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Material_aluminum_c4cfa292,Material_보크사이트_14c1daed,REFINED_FROM,에어컨: 보크사이트/원유 → 알루미늄/플라스틱 → 에어컨 모듈; final application system=공조 시스템.,material_flows.docx
+Material_aluminum_c4cfa292,Material_보크사이트_14c1daed,REFINED_FROM,차륜 (휠): 보크사이트/망간석 → 고강도 합금 → 차륜; final application system=주행 장치.,material_flows.docx
+Material_aluminum_c4cfa292,Material_보크사이트_14c1daed,REFINED_FROM,라디에이터: 보크사이트/원유 → 알루미늄 핀/플라스틱 탱크 → 라디에이터; final application system=열관리 시스템.,material_flows.docx
+Material_aluminum_c4cfa292,Material_연망간석_9b9f4d2d,REFINED_FROM,차륜 (휠): 보크사이트/망간석 → 고강도 합금 → 차륜; final application system=주행 장치.,material_flows.docx
+Material_aluminum_c4cfa292,Material_원유_25257ba0,REFINED_FROM,에어컨: 보크사이트/원유 → 알루미늄/플라스틱 → 에어컨 모듈; final application system=공조 시스템.,material_flows.docx
+Material_aluminum_c4cfa292,Material_원유_25257ba0,REFINED_FROM,라디에이터: 보크사이트/원유 → 알루미늄 핀/플라스틱 탱크 → 라디에이터; final application system=열관리 시스템.,material_flows.docx
+Material_cobalt_60184109,Country_china_eb278d21,REFINED_FROM,Cobalt refining: China (78%).,scm_related_material_routes.md
+Material_copper_709599b4,Country_china_eb278d21,REFINED_FROM,Copper refining: China (44%).,scm_related_material_routes.md
+Material_copper_709599b4,Material_원유_25257ba0,REFINED_FROM,와이어링 하니스: 황동석/원유 → 구리 배선/PVC 절연재 → 하니스; final application system=통합 배선망.,material_flows.docx
+Material_copper_709599b4,Material_황동석_44553b30,REFINED_FROM,와이어링 하니스: 황동석/원유 → 구리 배선/PVC 절연재 → 하니스; final application system=통합 배선망.,material_flows.docx
+Material_copper_709599b4,Material_황동석_chalcopyrite_b89e90fc,REFINED_FROM,ECS 와이어: 황동석 → 고순도 구리 → 현가장치용 배선 → ECS; final application system=현가 시스템.,material_flows.docx
+Material_gold_c3db7cb8,Country_switzerland_7895f00c,REFINED_FROM,"Gold refining: Switzerland, UAE.",scm_related_material_routes.md
+Material_gold_c3db7cb8,Country_uae_49c56d8c,REFINED_FROM,"Gold refining: Switzerland, UAE.",scm_related_material_routes.md
+Material_gold_c3db7cb8,Material_금광석_43ae2094,REFINED_FROM,에어백 모듈: 금광석/원유 → 접점 도금/에어백 쿠션 → 에어백; final application system=승객 안전.,material_flows.docx
+Material_gold_c3db7cb8,Material_금광석_43ae2094,REFINED_FROM,도금 (Plating): 금광석/석석 → 전기도금액 → 단자 내부 부식 방지 → 커넥터; final application system=전장 공통.,material_flows.docx
+Material_gold_c3db7cb8,Material_금광석_gold_ore_ede2bef3,REFINED_FROM,본딩 와이어: 금광석 → 고순도 금사 → 반도체 칩 내부 연결 → 센서; final application system=자율주행 센서.,material_flows.docx
+Material_gold_c3db7cb8,Material_석석_88f62213,REFINED_FROM,도금 (Plating): 금광석/석석 → 전기도금액 → 단자 내부 부식 방지 → 커넥터; final application system=전장 공통.,material_flows.docx
+Material_gold_c3db7cb8,Material_원유_25257ba0,REFINED_FROM,에어백 모듈: 금광석/원유 → 접점 도금/에어백 쿠션 → 에어백; final application system=승객 안전.,material_flows.docx
+Material_manganese_3b2931e7,Country_china_eb278d21,REFINED_FROM,Manganese refining: China (85~90%).,scm_related_material_routes.md
+Material_manganese_3b2931e7,Material_연망간석_9b9f4d2d,REFINED_FROM,구동차축 (Axle): 망간석/철광석 → 합금강 → 구동축; final application system=동력 전달.,material_flows.docx
+Material_manganese_3b2931e7,Material_연망간석_9b9f4d2d,REFINED_FROM,합금 (Alloy): 망간석/철광석 → 고장력 합금강 → 차체 및 현가 부품; final application system=구조/현가 공통.,material_flows.docx
+Material_manganese_3b2931e7,Material_연망간석_9b9f4d2d,REFINED_FROM,변속기 부품: 망간석/철광석 → 합금강 → 변속기 기어/샤프트 → 변속기; final application system=파워트레인.,material_flows.docx
+Material_manganese_3b2931e7,Material_철광석_40f26df3,REFINED_FROM,구동차축 (Axle): 망간석/철광석 → 합금강 → 구동축; final application system=동력 전달.,material_flows.docx
+Material_manganese_3b2931e7,Material_철광석_40f26df3,REFINED_FROM,합금 (Alloy): 망간석/철광석 → 고장력 합금강 → 차체 및 현가 부품; final application system=구조/현가 공통.,material_flows.docx
+Material_manganese_3b2931e7,Material_철광석_40f26df3,REFINED_FROM,변속기 부품: 망간석/철광석 → 합금강 → 변속기 기어/샤프트 → 변속기; final application system=파워트레인.,material_flows.docx
+Material_plastic_ec18eace,Material_원유_25257ba0,REFINED_FROM,기타차량부품: 원유/고무액 → 내장재(대시보드)/실링/호스 → 각종 부품; final application system=내외장 공통.,material_flows.docx
+Material_plastic_ec18eace,Material_천연고무_0a37b414,REFINED_FROM,기타차량부품: 원유/고무액 → 내장재(대시보드)/실링/호스 → 각종 부품; final application system=내외장 공통.,material_flows.docx
+Material_steel_4c61dbb7,Material_보크사이트_14c1daed,REFINED_FROM,조향장치: 철광석/보크사이트 → 조향 기어 및 하우징 → 조향장치; final application system=조향 시스템.,material_flows.docx
+Material_steel_4c61dbb7,Material_철광석_40f26df3,REFINED_FROM,조향장치: 철광석/보크사이트 → 조향 기어 및 하우징 → 조향장치; final application system=조향 시스템.,material_flows.docx
+Material_tantalum_43212457,Country_china_eb278d21,REFINED_FROM,"Tantalum refining: China (60~70%), Germany, USA.",scm_related_material_routes.md
+Material_tantalum_43212457,Country_germany_45bfada5,REFINED_FROM,"Tantalum refining: China (60~70%), Germany, USA.",scm_related_material_routes.md
+Material_tantalum_43212457,Country_usa_622cdd84,REFINED_FROM,"Tantalum refining: China (60~70%), Germany, USA.",scm_related_material_routes.md
+Material_tantalum_43212457,Material_콜탄_coltan_8a2ff675,REFINED_FROM,탄탈럼 커패시터: 콜탄 → 탄탈럼 파우더 → 전압 안정화 소자 → 제어기; final application system=제동/전장 제어.,material_flows.docx
+Material_tin_1ef1f0c2,Country_china_eb278d21,REFINED_FROM,Tin refining: China (50%).,scm_related_material_routes.md
+Material_tin_1ef1f0c2,Material_석석_cassiterite_080fdd9a,REFINED_FROM,카스테레오: 석석 → 주석 → PCB 솔더링 → 카스테레오; final application system=인포테인먼트.,material_flows.docx
+Material_tin_1ef1f0c2,Material_석석_cassiterite_080fdd9a,REFINED_FROM,솔더링 (Soldering): 석석 → 주석 → 전자회로 결합용 납땜재 → 회로 기판; final application system=전장 공통.,material_flows.docx
+Material_tungsten_bf06b6cf,Country_china_eb278d21,REFINED_FROM,Tungsten refining: China (80~85%).,scm_related_material_routes.md
+Material_tungsten_bf06b6cf,Material_연망간석_9b9f4d2d,REFINED_FROM,브레이크 패드 마찰재: 철망간중석/망간석 → 내열 마찰재 보강재 → 마찰재; final application system=제동 시스템.,material_flows.docx
+Material_tungsten_bf06b6cf,Material_철광석_40f26df3,REFINED_FROM,엔진 부품: 철망간중석/철광석 → 고내열 합금강 → 엔진 밸브/헤드 → 엔진; final application system=파워트레인.,material_flows.docx
+Material_tungsten_bf06b6cf,Material_철망간중석_1827727f,REFINED_FROM,브레이크: 철망간중석/콜탄 → 마찰재/커패시터 소자 → 브레이크; final application system=제동 시스템.,material_flows.docx
+Material_tungsten_bf06b6cf,Material_철망간중석_1827727f,REFINED_FROM,브레이크 패드 마찰재: 철망간중석/망간석 → 내열 마찰재 보강재 → 마찰재; final application system=제동 시스템.,material_flows.docx
+Material_tungsten_bf06b6cf,Material_철망간중석_1827727f,REFINED_FROM,엔진 부품: 철망간중석/철광석 → 고내열 합금강 → 엔진 밸브/헤드 → 엔진; final application system=파워트레인.,material_flows.docx
+Material_tungsten_bf06b6cf,Material_콜탄_2071427b,REFINED_FROM,브레이크: 철망간중석/콜탄 → 마찰재/커패시터 소자 → 브레이크; final application system=제동 시스템.,material_flows.docx
+Material_유리_358df7cd,Material_규사_dbdeafb7,REFINED_FROM,파미러 (사이드미러): 규사/원유 → 미러 글라스/플라스틱 하우징 → 파미러; final application system=외장 시스템.,material_flows.docx
+Material_유리_358df7cd,Material_원유_25257ba0,REFINED_FROM,파미러 (사이드미러): 규사/원유 → 미러 글라스/플라스틱 하우징 → 파미러; final application system=외장 시스템.,material_flows.docx
+Product_axle_4465f010,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"Manganese use: Steel, axle.",scm_related_material_routes.md
+Product_brake_69c4b7dd,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,"Tungsten use: Brake, engine.",scm_related_material_routes.md
+Product_capacitors_51f229dc,Material_tantalum_43212457,REQUIRES_MATERIAL,Tantalum use: Capacitors.,scm_related_material_routes.md
+Product_cds_수신기_0fe62b7a,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,China row: LG Electronics located at 난징 handles CDS 수신기; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_cds_수신기_0fe62b7a,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,China row: Ynnan tin located at handles CDS 수신기; materials=주석; supplies_to=LG Electronics; tier=2.0.,auto_supply_chain.xlsx
+Product_ecs_와이어_bef721f3,Material_copper_709599b4,REQUIRES_MATERIAL,ECS 와이어: 황동석 → 고순도 구리 → 현가장치용 배선 → ECS; final application system=현가 시스템.,material_flows.docx
+Product_engine_306967df,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,"Tungsten use: Brake, engine.",scm_related_material_routes.md
+Product_ev_batteries_94ef5377,Material_cobalt_60184109,REQUIRES_MATERIAL,Cobalt use: EV batteries.,scm_related_material_routes.md
+Product_ev_systems_cae3b8e0,Material_copper_709599b4,REQUIRES_MATERIAL,"Copper use: Wiring harness, EV systems.",scm_related_material_routes.md
+Product_pcb_soldering_8688f5d1,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,Tin use: PCB soldering.,scm_related_material_routes.md
+Product_semiconductor_02bdf177,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"Gold use: Semiconductor, sensors.",scm_related_material_routes.md
+Product_sensors_63edb314,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"Gold use: Semiconductor, sensors.",scm_related_material_routes.md
+Product_steel_a8f197cb,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"Manganese use: Steel, axle.",scm_related_material_routes.md
+Product_wiring_harness_a435891f,Material_copper_709599b4,REQUIRES_MATERIAL,"Copper use: Wiring harness, EV systems.",scm_related_material_routes.md
+Product_경보기_19cd6501,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,China row: Hyundai Kefico located at 하노이 handles 경보기; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_구동차축_8ef8f2e4,Material_manganese_3b2931e7,REQUIRES_MATERIAL,China row: Hyundai Transys located at 창춘 handles 구동차축; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_구동차축_8ef8f2e4,Material_manganese_3b2931e7,REQUIRES_MATERIAL,China row: posco china located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Product_구동차축_8ef8f2e4,Material_manganese_3b2931e7,REQUIRES_MATERIAL,China row: jilin Ferroalloys located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Product_구동차축_axle_90c9e4a2,Material_manganese_3b2931e7,REQUIRES_MATERIAL,구동차축 (Axle): 망간석/철광석 → 합금강 → 구동축; final application system=동력 전달.,material_flows.docx
+Product_구동차축_axle_90c9e4a2,Material_steel_4c61dbb7,REQUIRES_MATERIAL,구동차축 (Axle): 망간석/철광석 → 합금강 → 구동축; final application system=동력 전달.,material_flows.docx
+Product_기타승용차_부품_21e1938f,Material_copper_709599b4,REQUIRES_MATERIAL,Germany row: Wieland Werke located at 울름 handles 기타승용차 부품; materials=구리; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Product_기타승용차_부품_21e1938f,Material_gold_c3db7cb8,REQUIRES_MATERIAL,Germany row: Heraeus located at Hanau handles 기타승용차 부품; materials=금; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Product_기타승용차_부품_21e1938f,Material_manganese_3b2931e7,REQUIRES_MATERIAL,Germany row: ThyssenKrupp located at 뒤스부르크 handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Product_기타승용차_부품_21e1938f,Material_manganese_3b2931e7,REQUIRES_MATERIAL,Germany row: Saarstahl located at handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Product_기타승용차_부품_21e1938f,Material_tantalum_43212457,REQUIRES_MATERIAL,Portugal row: KEMET located at Évora handles 기타승용차 부품; materials=탄탈럼; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Product_기타승용차_부품_21e1938f,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,Germany row: alpha assembly solutions located at Langenfeld handles 기타승용차 부품; materials=주석; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Product_기타승용차부품_2d3da5b3,Material_copper_709599b4,REQUIRES_MATERIAL,"Germany row: ZF located at 프리드리히스하펜 handles 기타승용차부품; materials=망간, 구리, 주석, 탄탈럼,금, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_기타승용차부품_2d3da5b3,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"Germany row: ZF located at 프리드리히스하펜 handles 기타승용차부품; materials=망간, 구리, 주석, 탄탈럼,금, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_기타승용차부품_2d3da5b3,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"Germany row: ZF located at 프리드리히스하펜 handles 기타승용차부품; materials=망간, 구리, 주석, 탄탈럼,금, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_기타승용차부품_2d3da5b3,Material_tantalum_43212457,REQUIRES_MATERIAL,"Germany row: ZF located at 프리드리히스하펜 handles 기타승용차부품; materials=망간, 구리, 주석, 탄탈럼,금, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_기타승용차부품_2d3da5b3,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"Germany row: ZF located at 프리드리히스하펜 handles 기타승용차부품; materials=망간, 구리, 주석, 탄탈럼,금, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_기타승용차부품_2d3da5b3,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,"Germany row: ZF located at 프리드리히스하펜 handles 기타승용차부품; materials=망간, 구리, 주석, 탄탈럼,금, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_기타차량부품_3552948a,Material_plastic_ec18eace,REQUIRES_MATERIAL,기타차량부품: 원유/고무액 → 내장재(대시보드)/실링/호스 → 각종 부품; final application system=내외장 공통.,material_flows.docx
+Product_기타차량부품_3552948a,Material_rubber_3984488b,REQUIRES_MATERIAL,기타차량부품: 원유/고무액 → 내장재(대시보드)/실링/호스 → 각종 부품; final application system=내외장 공통.,material_flows.docx
+Product_도금_plating_3e33f92b,Material_gold_c3db7cb8,REQUIRES_MATERIAL,도금 (Plating): 금광석/석석 → 전기도금액 → 단자 내부 부식 방지 → 커넥터; final application system=전장 공통.,material_flows.docx
+Product_도금_plating_3e33f92b,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,도금 (Plating): 금광석/석석 → 전기도금액 → 단자 내부 부식 방지 → 커넥터; final application system=전장 공통.,material_flows.docx
+Product_동력전달장치_33900a00,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 현대트랜시스 located at 서산 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_동력전달장치_33900a00,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 비테스코테크놀로지스 located at 이천 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_동력전달장치_33900a00,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 카펙발레오 located at 칠곡/성주 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_동력전달장치_33900a00,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Product_동력전달장치_33900a00,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Product_동력전달장치_33900a00,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=비테스코테크놀로지스; tier=2.0.,auto_supply_chain.xlsx
+Product_동력전달장치_33900a00,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=카펙발레오; tier=2.0.,auto_supply_chain.xlsx
+Product_동력전달장치_액슬_등속조인트_920946d6,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: 현대위아 located at 창원 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_동력전달장치_액슬_등속조인트_920946d6,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: DB메탈 located at 동해 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Product_동력전달장치_액슬_등속조인트_920946d6,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: SIMPACK located at 포함 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Product_라디에이터_49846aca,Material_aluminum_c4cfa292,REQUIRES_MATERIAL,라디에이터: 보크사이트/원유 → 알루미늄 핀/플라스틱 탱크 → 라디에이터; final application system=열관리 시스템.,material_flows.docx
+Product_라디에이터_49846aca,Material_resin_a84c0ab3,REQUIRES_MATERIAL,라디에이터: 보크사이트/원유 → 알루미늄 핀/플라스틱 탱크 → 라디에이터; final application system=열관리 시스템.,material_flows.docx
+Product_램프_전동화_부품_미러_2728e408,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"South Korea row: 에스엘 located at 천안/대구 handles 램프,전동화 부품, 미러; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_램프_전동화_부품_미러_2728e408,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"South Korea row: 엠케이전자 located at 음성 handles 램프,전동화 부품, 미러; materials=금; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Product_램프_전동화_부품_미러_2728e408,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: 에스엘 located at 천안/대구 handles 램프,전동화 부품, 미러; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_램프_전동화_부품_미러_2728e408,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: LT메탈 located at 인천 handles 램프,전동화 부품, 미러; materials=주석; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Product_변속기_부품_28316253,Material_manganese_3b2931e7,REQUIRES_MATERIAL,변속기 부품: 망간석/철광석 → 합금강 → 변속기 기어/샤프트 → 변속기; final application system=파워트레인.,material_flows.docx
+Product_변속기_부품_28316253,Material_steel_4c61dbb7,REQUIRES_MATERIAL,변속기 부품: 망간석/철광석 → 합금강 → 변속기 기어/샤프트 → 변속기; final application system=파워트레인.,material_flows.docx
+Product_변속기_엔진_섀시_78ad3f26,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: 지엠비코리아 located at 창원/서산 handles 변속기, 엔진, 섀시; materials=텅스텐,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_변속기_엔진_섀시_78ad3f26,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: 세아특수강 located at 창원 handles 변속기, 엔진, 섀시; materials=망간; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Product_변속기_엔진_섀시_78ad3f26,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,"South Korea row: 지엠비코리아 located at 창원/서산 handles 변속기, 엔진, 섀시; materials=텅스텐,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_변속기_엔진_섀시_78ad3f26,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,"South Korea row: 한국분말야금 located at 아산 handles 변속기, 엔진, 섀시; materials=텅스텐; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Product_본딩_와이어_2704155b,Material_gold_c3db7cb8,REQUIRES_MATERIAL,본딩 와이어: 금광석 → 고순도 금사 → 반도체 칩 내부 연결 → 센서; final application system=자율주행 센서.,material_flows.docx
+Product_브레이크_991cfa82,Material_cobalt_60184109,REQUIRES_MATERIAL,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_cobalt_60184109,REQUIRES_MATERIAL,"Japan row: Sumitomo metal mining located at handles 브레이크; materials=코발트,구리; supplies_to=Denso; tier=2.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_copper_709599b4,REQUIRES_MATERIAL,"Japan row: Sumitomo metal mining located at handles 브레이크; materials=코발트,구리; supplies_to=Denso; tier=2.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_gold_c3db7cb8,REQUIRES_MATERIAL,Japan row: Tanaka kikinzoku located at handles 브레이크; materials=금; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_manganese_3b2931e7,REQUIRES_MATERIAL,China row: Ningxia tianyuan Manganese located at handles 브레이크; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_manganese_3b2931e7,REQUIRES_MATERIAL,Japan row: Aichi steel located at handles 브레이크; materials=망간; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tantalum_43212457,REQUIRES_MATERIAL,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tantalum_43212457,REQUIRES_MATERIAL,China row: 교세라(AVX) located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tantalum_43212457,REQUIRES_MATERIAL,China row: KEMET located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tantalum_43212457,REQUIRES_MATERIAL,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tantalum_43212457,REQUIRES_MATERIAL,Japan row: murata located at handles 브레이크; materials=탄탈럼; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tantalum_43212457,REQUIRES_MATERIAL,브레이크: 철망간중석/콜탄 → 마찰재/커패시터 소자 → 브레이크; final application system=제동 시스템.,material_flows.docx
+Product_브레이크_991cfa82,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,China row: Ynnan tin located at handles 브레이크; materials=주석; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,Japan row: senju metal industry located at handles 브레이크; materials=주석; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,China row: Xiamen Tungsten located at handles 브레이크; materials=텅스텐; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,Japan row: ALMT located at handles 브레이크; materials=텅스텐; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Product_브레이크_991cfa82,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,브레이크: 철망간중석/콜탄 → 마찰재/커패시터 소자 → 브레이크; final application system=제동 시스템.,material_flows.docx
+Product_브레이크_패드_마찰재_5341d3b4,Material_manganese_3b2931e7,REQUIRES_MATERIAL,브레이크 패드 마찰재: 철망간중석/망간석 → 내열 마찰재 보강재 → 마찰재; final application system=제동 시스템.,material_flows.docx
+Product_브레이크_패드_마찰재_5341d3b4,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,브레이크 패드 마찰재: 철망간중석/망간석 → 내열 마찰재 보강재 → 마찰재; final application system=제동 시스템.,material_flows.docx
+Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"South Korea row: 현대모비스(유니투스) located at 아산/평택/천안/충주/김천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=주석, 금,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"South Korea row: LT메탈 located at 인천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=금, 주석; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: 현대모비스(유니투스) located at 아산/평택/천안/충주/김천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=주석, 금,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: DB메탈 located at 동해 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: SIMPACK located at 포함 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: 현대모비스(유니투스) located at 아산/평택/천안/충주/김천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=주석, 금,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_섀시_전동화_부품_에어백_램프_등_핵심_부품_b3ff6410,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: LT메탈 located at 인천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=금, 주석; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Product_섀시모듈_e7a2f74e,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 현대위아 located at 안산 handles 섀시모듈; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_섀시모듈_e7a2f74e,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 현대제철 located at 당진 handles 섀시모듈; materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"South Korea row: LT메탈 located at 인천 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금, 주석; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: DB메탈 located at 동해 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: SIMPACK located at 포함 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,Material_tantalum_43212457,REQUIRES_MATERIAL,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,Material_tantalum_43212457,REQUIRES_MATERIAL,"South Korea row: 삼성전기 located at 세종 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=탄탈럼; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_섀시모듈_차량하부_콕핏모듈_운전석_프런트엔드모듈_엔진룸_앞_조향_현가_제동_장치_에어백_전동화_부품_전력변환_구동_배터리_연료전지_시스템_a_s_부품_순정부품_현대자동차_기아_자동차용품_611caa53,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: LT메탈 located at 인천 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금, 주석; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Product_섀시모듈_타이어모듈_동력전달장치_액슬_c14bc7ca,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: 현대위아 located at 광주 handles 섀시모듈, 타이어모듈, 동력전달장치(액슬); materials=망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_섀시모듈_타이어모듈_동력전달장치_액슬_c14bc7ca,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: 세아베스틸 located at 군산 handles 섀시모듈, 타이어모듈, 동력전달장치(액슬); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_copper_709599b4,REQUIRES_MATERIAL,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_copper_709599b4,REQUIRES_MATERIAL,Germany row: Wieland Werke located at 울름 handles 서스펜션; materials=구리; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_gold_c3db7cb8,REQUIRES_MATERIAL,Germany row: Heraeus located at Hanau handles 서스펜션; materials=금; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_manganese_3b2931e7,REQUIRES_MATERIAL,Germany row: ThyssenKrupp located at 뒤스부르크 handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_manganese_3b2931e7,REQUIRES_MATERIAL,Germany row: Saarstahl located at handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_manganese_3b2931e7,REQUIRES_MATERIAL,Japan row: Nippon steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_manganese_3b2931e7,REQUIRES_MATERIAL,Japan row: JFE steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_manganese_3b2931e7,REQUIRES_MATERIAL,Japan row: Chuo spring located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_tantalum_43212457,REQUIRES_MATERIAL,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_tantalum_43212457,REQUIRES_MATERIAL,Portugal row: KEMET located at Évora handles 서스펜션; materials=탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_텅스텐_탄탈럼_24581760,REQUIRES_MATERIAL,Germany row: H.C. Starck located at handles 서스펜션; materials=텅스텐 탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Product_서스펜션_5b0f029b,Material_텅스템_89a01c0d,REQUIRES_MATERIAL,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_솔더링_soldering_f646bd16,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,솔더링 (Soldering): 석석 → 주석 → 전자회로 결합용 납땜재 → 회로 기판; final application system=전장 공통.,material_flows.docx
+Product_스마트키_등_전자제어_시스템_e922019e,Material_copper_709599b4,REQUIRES_MATERIAL,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_스마트키_등_전자제어_시스템_e922019e,Material_copper_709599b4,REQUIRES_MATERIAL,South Korea row: 풍산 located at 울산 handles 스마트키 등 전자제어 시스템; materials=구리; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Product_스마트키_등_전자제어_시스템_e922019e,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_스마트키_등_전자제어_시스템_e922019e,Material_gold_c3db7cb8,REQUIRES_MATERIAL,South Korea row: LT메탈 located at 인천 handles 스마트키 등 전자제어 시스템; materials=금; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Product_스마트키_등_전자제어_시스템_e922019e,Material_tantalum_43212457,REQUIRES_MATERIAL,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_스마트키_등_전자제어_시스템_e922019e,Material_tantalum_43212457,REQUIRES_MATERIAL,South Korea row: 삼성전기 located at 세종 handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Product_스마트키_등_전자제어_시스템_e922019e,Material_tantalum_43212457,REQUIRES_MATERIAL,China row: KEMET located at Suzhou handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Product_스마트키_등_전자제어_시스템_e922019e,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_스마트키_등_전자제어_시스템_e922019e,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,South Korea row: 알파코리아 located at 시흥 handles 스마트키 등 전자제어 시스템; materials=주석; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Product_시동모터_교류발전기_99eb8b56,Material_copper_709599b4,REQUIRES_MATERIAL,"South Korea row: 발레오전장시스템코리아 located at 경주 handles 시동모터, 교류발전기; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_시동모터_교류발전기_99eb8b56,Material_copper_709599b4,REQUIRES_MATERIAL,"South Korea row: 풍산 located at 울산 handles 시동모터, 교류발전기; materials=구리; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Product_시동모터_교류발전기_99eb8b56,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: 발레오전장시스템코리아 located at 경주 handles 시동모터, 교류발전기; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_시동모터_교류발전기_99eb8b56,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: LT메탈 located at 인천 handles 시동모터, 교류발전기; materials=주석; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Product_에어백_모듈_fe3e6a0b,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"China row: LT메탈(소주/연태) located at 심천, 천진 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.",auto_supply_chain.xlsx
+Product_에어백_모듈_fe3e6a0b,Material_gold_c3db7cb8,REQUIRES_MATERIAL,China row: metalor located at 소주 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Product_에어백_모듈_fe3e6a0b,Material_gold_c3db7cb8,REQUIRES_MATERIAL,에어백 모듈: 금광석/원유 → 접점 도금/에어백 쿠션 → 에어백; final application system=승객 안전.,material_flows.docx
+Product_에어백_모듈_fe3e6a0b,Material_nylon_6ce81f53,REQUIRES_MATERIAL,에어백 모듈: 금광석/원유 → 접점 도금/에어백 쿠션 → 에어백; final application system=승객 안전.,material_flows.docx
+Product_에어백모듈_4242b80d,Material_gold_c3db7cb8,REQUIRES_MATERIAL,China row: Hyundai Mobis located at 베이징 handles 에어백모듈; materials=금; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_에어컨_4e1bc54e,Material_aluminum_c4cfa292,REQUIRES_MATERIAL,에어컨: 보크사이트/원유 → 알루미늄/플라스틱 → 에어컨 모듈; final application system=공조 시스템.,material_flows.docx
+Product_에어컨_4e1bc54e,Material_resin_a84c0ab3,REQUIRES_MATERIAL,에어컨: 보크사이트/원유 → 알루미늄/플라스틱 → 에어컨 모듈; final application system=공조 시스템.,material_flows.docx
+Product_엔진_부품_c659e991,Material_steel_4c61dbb7,REQUIRES_MATERIAL,엔진 부품: 철망간중석/철광석 → 고내열 합금강 → 엔진 밸브/헤드 → 엔진; final application system=파워트레인.,material_flows.docx
+Product_엔진_부품_c659e991,Material_tungsten_bf06b6cf,REQUIRES_MATERIAL,엔진 부품: 철망간중석/철광석 → 고내열 합금강 → 엔진 밸브/헤드 → 엔진; final application system=파워트레인.,material_flows.docx
+Product_와이어링_하네스_8053260c,Material_copper_709599b4,REQUIRES_MATERIAL,China row: jiangxi copper located at handles 와이어링 하네스; materials=구리; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Product_와이어링_하네스_8053260c,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,China row: Ynnan tin located at handles 와이어링 하네스; materials=주석; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Product_와이어링_하니스_902b3fcc,Material_copper_709599b4,REQUIRES_MATERIAL,"China row: Kyungshin located at 옌타이 handles 와이어링 하니스; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_와이어링_하니스_902b3fcc,Material_copper_709599b4,REQUIRES_MATERIAL,"South Korea row: 유라코퍼레이션 located at 청주/평택/경주 handles 와이어링 하니스; materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_와이어링_하니스_902b3fcc,Material_copper_709599b4,REQUIRES_MATERIAL,South Korea row: LS전선 located at 구미 handles 와이어링 하니스; materials=구리; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Product_와이어링_하니스_902b3fcc,Material_copper_709599b4,REQUIRES_MATERIAL,와이어링 하니스: 황동석/원유 → 구리 배선/PVC 절연재 → 하니스; final application system=통합 배선망.,material_flows.docx
+Product_와이어링_하니스_902b3fcc,Material_synthetic_resin_fbfdc101,REQUIRES_MATERIAL,와이어링 하니스: 황동석/원유 → 구리 배선/PVC 절연재 → 하니스; final application system=통합 배선망.,material_flows.docx
+Product_와이어링_하니스_902b3fcc,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"China row: Kyungshin located at 옌타이 handles 와이어링 하니스; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_와이어링_하니스_902b3fcc,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: 유라코퍼레이션 located at 청주/평택/경주 handles 와이어링 하니스; materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_와이어링_하니스_902b3fcc,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스; materials=주석; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Product_와이어링_하니스_배선뭉치_09714a4f,Material_copper_709599b4,REQUIRES_MATERIAL,"South Korea row: 경신 located at 경주/화성/군산 handles 와이어링 하니스(배선뭉치); materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_와이어링_하니스_배선뭉치_09714a4f,Material_copper_709599b4,REQUIRES_MATERIAL,South Korea row: 대원전선 located at 예산 handles 와이어링 하니스(배선뭉치); materials=구리; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Product_와이어링_하니스_배선뭉치_09714a4f,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: 경신 located at 경주/화성/군산 handles 와이어링 하니스(배선뭉치); materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_와이어링_하니스_배선뭉치_09714a4f,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스(배선뭉치); materials=주석; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Product_자동차_엔진_변속기_부품_dc2643b9,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 현대케피코 located at 군포 handles 자동차 엔진/변속기 부품; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_자동차_엔진_변속기_부품_dc2643b9,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 현대제철 located at 포항 handles 자동차 엔진/변속기 부품; materials=망간; supplies_to=현대케피코; tier=2.0.,auto_supply_chain.xlsx
+Product_자동차_엔진_부품_크랭크_샤프트_e9e83917,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 현대위아 located at 울산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_자동차_엔진_부품_크랭크_샤프트_e9e83917,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 현대제철 located at 포항 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Product_자동차_엔진_부품_크랭크_샤프트_e9e83917,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 세아베스틸 located at 군산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Product_자동차_열관리_시스템_d32985a1,Material_copper_709599b4,REQUIRES_MATERIAL,South Korea row: 한온시스템 located at 울산 handles 자동차 열관리 시스템; materials=구리; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_자동차_열관리_시스템_d32985a1,Material_copper_709599b4,REQUIRES_MATERIAL,South Korea row: 풍산 located at 창원 handles 자동차 열관리 시스템; materials=구리; supplies_to=한온시스템; tier=2.0.,auto_supply_chain.xlsx
+Product_자율주행_전동화_부품_ccb6b83f,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"South Korea row: HL만도(HL클레무브) located at 인천 handles 자율주행/전동화 부품; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_자율주행_전동화_부품_ccb6b83f,Material_gold_c3db7cb8,REQUIRES_MATERIAL,South Korea row: 대진인더스 located at 화성 handles 자율주행/전동화 부품; materials=금; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Product_자율주행_전동화_부품_ccb6b83f,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: HL만도(HL클레무브) located at 인천 handles 자율주행/전동화 부품; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_자율주행_전동화_부품_ccb6b83f,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,South Korea row: LT메탈 located at 인천 handles 자율주행/전동화 부품; materials=주석; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Product_제동장치_fedddf48,Material_tantalum_43212457,REQUIRES_MATERIAL,"South Korea row: HL만도 located at 평택 handles 제동장치; materials=주석,탄탈럼; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_제동장치_fedddf48,Material_tantalum_43212457,REQUIRES_MATERIAL,China row: KEMET located at Suzhou handles 제동장치; materials=탄탈럼; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Product_제동장치_fedddf48,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"South Korea row: HL만도 located at 평택 handles 제동장치; materials=주석,탄탈럼; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_제동장치_fedddf48,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,South Korea row: LT메탈 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Product_제동장치_fedddf48,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,South Korea row: 창성 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Product_조향장치_7a108f90,Material_aluminum_c4cfa292,REQUIRES_MATERIAL,조향장치: 철광석/보크사이트 → 조향 기어 및 하우징 → 조향장치; final application system=조향 시스템.,material_flows.docx
+Product_조향장치_7a108f90,Material_steel_4c61dbb7,REQUIRES_MATERIAL,조향장치: 철광석/보크사이트 → 조향 기어 및 하우징 → 조향장치; final application system=조향 시스템.,material_flows.docx
+Product_차륜_휠_52a9df6b,Material_aluminum_c4cfa292,REQUIRES_MATERIAL,차륜 (휠): 보크사이트/망간석 → 고강도 합금 → 차륜; final application system=주행 장치.,material_flows.docx
+Product_차륜_휠_52a9df6b,Material_manganese_3b2931e7,REQUIRES_MATERIAL,차륜 (휠): 보크사이트/망간석 → 고강도 합금 → 차륜; final application system=주행 장치.,material_flows.docx
+Product_차체용_부품_b4f8f5ee,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 화신 located at 영천/예산 handles 차체용 부품; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_차체용_부품_b4f8f5ee,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 세아베스틸 located at 군산 handles 차체용 부품; materials=망간; supplies_to=화신; tier=2.0.,auto_supply_chain.xlsx
+Product_카스테레오_ae504af1,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"Spain row: Ficosa located at 바르셀로나 handles 카스테레오; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_카스테레오_ae504af1,Material_gold_c3db7cb8,REQUIRES_MATERIAL,Germany row: heraeus electronics located at Hanau handles 카스테레오; materials=금; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Product_카스테레오_ae504af1,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,China row: Hyundai Mobis located at 장쑤 handles 카스테레오; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_카스테레오_ae504af1,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"Spain row: Ficosa located at 바르셀로나 handles 카스테레오; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_카스테레오_ae504af1,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오; materials=주석; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Product_카스테레오_ae504af1,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,카스테레오: 석석 → 주석 → PCB 솔더링 → 카스테레오; final application system=인포테인먼트.,material_flows.docx
+Product_카스테레오_블루투스_dfc88d81,Material_gold_c3db7cb8,REQUIRES_MATERIAL,"Spain row: Grupo Antolin located at 부르고스 handles 카스테레오(블루투스); materials=주석,금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_카스테레오_블루투스_dfc88d81,Material_gold_c3db7cb8,REQUIRES_MATERIAL,Germany row: heraeus electronics located at Hanau handles 카스테레오(블루투스); materials=금; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Product_카스테레오_블루투스_dfc88d81,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,"Spain row: Grupo Antolin located at 부르고스 handles 카스테레오(블루투스); materials=주석,금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_카스테레오_블루투스_dfc88d81,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오(블루투스); materials=주석; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Product_카스테레오_주석_edb1068b,Material_tin_1ef1f0c2,REQUIRES_MATERIAL,China row: Ynnan tin located at handles 카스테레오-주석; materials=주석; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Product_클러치_21719c62,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 평화바레오 located at 대구/고령 handles 클러치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Product_클러치_21719c62,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 세아베스틸 located at 군산 handles 클러치; materials=망간; supplies_to=평화바레오; tier=2.0.,auto_supply_chain.xlsx
+Product_탄탈럼_커패시터_4f2c529e,Material_tantalum_43212457,REQUIRES_MATERIAL,탄탈럼 커패시터: 콜탄 → 탄탈럼 파우더 → 전압 안정화 소자 → 제어기; final application system=제동/전장 제어.,material_flows.docx
+Product_파미러_사이드미러_42ab2dd5,Material_plastic_ec18eace,REQUIRES_MATERIAL,파미러 (사이드미러): 규사/원유 → 미러 글라스/플라스틱 하우징 → 파미러; final application system=외장 시스템.,material_flows.docx
+Product_파미러_사이드미러_42ab2dd5,Material_유리_358df7cd,REQUIRES_MATERIAL,파미러 (사이드미러): 규사/원유 → 미러 글라스/플라스틱 하우징 → 파미러; final application system=외장 시스템.,material_flows.docx
+Product_합금_alloy_5ffe9c98,Material_manganese_3b2931e7,REQUIRES_MATERIAL,합금 (Alloy): 망간석/철광석 → 고장력 합금강 → 차체 및 현가 부품; final application system=구조/현가 공통.,material_flows.docx
+Product_합금_alloy_5ffe9c98,Material_steel_4c61dbb7,REQUIRES_MATERIAL,합금 (Alloy): 망간석/철광석 → 고장력 합금강 → 차체 및 현가 부품; final application system=구조/현가 공통.,material_flows.docx
+Product_현가장치_984eb9d6,Material_copper_709599b4,REQUIRES_MATERIAL,"South Korea row: HL만도 located at 익산 handles 현가장치; materials=구리,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_현가장치_984eb9d6,Material_copper_709599b4,REQUIRES_MATERIAL,South Korea row: 풍산 located at 울산 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Product_현가장치_984eb9d6,Material_copper_709599b4,REQUIRES_MATERIAL,South Korea row: 대창 located at 시흥 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Product_현가장치_984eb9d6,Material_manganese_3b2931e7,REQUIRES_MATERIAL,"South Korea row: HL만도 located at 익산 handles 현가장치; materials=구리,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Product_현가장치_984eb9d6,Material_manganese_3b2931e7,REQUIRES_MATERIAL,South Korea row: 세아베스틸 located at 군산 handles 현가장치; materials=망간; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Route_route_barcelona_mediterranean_suez_same_route_d5586fdc,Port_barcelona_2700bffd,SHIPPED_FROM,Barcelona → Mediterranean → Suez → same route,scm_related_material_routes.md
+Route_route_constanta_black_sea_turkish_strait_suez_same_route_994ef242,Port_constanta_0ef2cba1,SHIPPED_FROM,Constanta → Black Sea → Turkish Strait → Suez → same route,scm_related_material_routes.md
+Supplier_aichi_steel_d8ce95f2,Company_denso_b7739daa,SUPPLIES,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_aichi_steel_d8ce95f2,Company_denso_b7739daa,SUPPLIES,Japan row: Aichi steel located at handles 브레이크; materials=망간; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_almt_7af0fec8,Company_denso_b7739daa,SUPPLIES,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_almt_7af0fec8,Company_denso_b7739daa,SUPPLIES,Japan row: ALMT located at handles 브레이크; materials=텅스텐; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Company_ficosa_c7caefd6,SUPPLIES,"Spain row: Ficosa located at 바르셀로나 handles 카스테레오; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Company_ficosa_c7caefd6,SUPPLIES,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오; materials=주석; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Company_grupo_antolin_4cce34c8,SUPPLIES,"Spain row: Grupo Antolin located at 부르고스 handles 카스테레오(블루투스); materials=주석,금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Company_grupo_antolin_4cce34c8,SUPPLIES,Germany row: alpha assembly solutions located at Langenfeld handles 카스테레오(블루투스); materials=주석; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_alpha_assembly_solutions_e86c4d37,Company_zf_4093b779,SUPPLIES,Germany row: alpha assembly solutions located at Langenfeld handles 기타승용차 부품; materials=주석; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_avx_60836258,Company_mando_5070089e,SUPPLIES,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_chuo_spring_e5a46ac5,Company_kyb_df1dffe7,SUPPLIES,Japan row: KYB located at 기후 handles 서스펜션; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_chuo_spring_e5a46ac5,Company_kyb_df1dffe7,SUPPLIES,Japan row: Chuo spring located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Company_비테스코테크놀로지스_9b2bfac9,SUPPLIES,South Korea row: 비테스코테크놀로지스 located at 이천 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Company_비테스코테크놀로지스_9b2bfac9,SUPPLIES,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=비테스코테크놀로지스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Company_현대모비스_e636ba5b,SUPPLIES,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Company_현대모비스_e636ba5b,SUPPLIES,"South Korea row: DB메탈 located at 동해 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Company_현대모비스_유니투스_c5404582,SUPPLIES,"South Korea row: 현대모비스(유니투스) located at 아산/평택/천안/충주/김천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=주석, 금,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Company_현대모비스_유니투스_c5404582,SUPPLIES,"South Korea row: DB메탈 located at 동해 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Company_현대위아_e20d69f3,SUPPLIES,"South Korea row: DB메탈 located at 동해 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Company_현대트랜시스_fdd83181,SUPPLIES,South Korea row: 현대트랜시스 located at 서산 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_db메탈_9c42d884,Company_현대트랜시스_fdd83181,SUPPLIES,South Korea row: DB메탈 located at 동해 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_h_c_starck_3cf751b8,Company_bosch_e8e30ffa,SUPPLIES,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_h_c_starck_3cf751b8,Company_bosch_e8e30ffa,SUPPLIES,Germany row: H.C. Starck located at handles 서스펜션; materials=텅스텐 탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_b016e8a0,Company_bosch_e8e30ffa,SUPPLIES,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_heraeus_b016e8a0,Company_bosch_e8e30ffa,SUPPLIES,Germany row: Heraeus located at Hanau handles 서스펜션; materials=금; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_b016e8a0,Company_zf_4093b779,SUPPLIES,Germany row: Heraeus located at Hanau handles 기타승용차 부품; materials=금; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Company_ficosa_c7caefd6,SUPPLIES,"Spain row: Ficosa located at 바르셀로나 handles 카스테레오; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Company_ficosa_c7caefd6,SUPPLIES,Germany row: heraeus electronics located at Hanau handles 카스테레오; materials=금; supplies_to=Ficosa; tier=2.0.,auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Company_grupo_antolin_4cce34c8,SUPPLIES,"Spain row: Grupo Antolin located at 부르고스 handles 카스테레오(블루투스); materials=주석,금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_heraeus_electronics_84d9bf7a,Company_grupo_antolin_4cce34c8,SUPPLIES,Germany row: heraeus electronics located at Hanau handles 카스테레오(블루투스); materials=금; supplies_to=Grupo Antolin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jfe_steel_c3cf32e4,Company_kyb_df1dffe7,SUPPLIES,Japan row: KYB located at 기후 handles 서스펜션; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_jfe_steel_c3cf32e4,Company_kyb_df1dffe7,SUPPLIES,Japan row: JFE steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jiangxi_copper_fbdf6578,Company_kyungshin_6af4d113,SUPPLIES,"China row: Kyungshin located at 옌타이 handles 와이어링 하니스; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_jiangxi_copper_fbdf6578,Company_kyungshin_6af4d113,SUPPLIES,China row: jiangxi copper located at handles 와이어링 하네스; materials=구리; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_jilin_ferroalloys_3c2e5d87,Company_hyundai_transys_e1735560,SUPPLIES,China row: Hyundai Transys located at 창춘 handles 구동차축; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_jilin_ferroalloys_3c2e5d87,Company_mando_5070089e,SUPPLIES,China row: jilin Ferroalloys located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Company_bosch_e8e30ffa,SUPPLIES,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Company_bosch_e8e30ffa,SUPPLIES,Portugal row: KEMET located at Évora handles 서스펜션; materials=탄탈럼; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Company_hl만도_8fdd8fcf,SUPPLIES,"South Korea row: HL만도 located at 평택 handles 제동장치; materials=주석,탄탈럼; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Company_hl만도_8fdd8fcf,SUPPLIES,China row: KEMET located at Suzhou handles 제동장치; materials=탄탈럼; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Company_mando_5070089e,SUPPLIES,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Company_mando_5070089e,SUPPLIES,China row: KEMET located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Company_zf_4093b779,SUPPLIES,Portugal row: KEMET located at Évora handles 기타승용차 부품; materials=탄탈럼; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Company_모베이시스전자_173de7c7,SUPPLIES,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_kemet_609264d4,Company_모베이시스전자_173de7c7,SUPPLIES,China row: KEMET located at Suzhou handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ls전선_8ba93ce3,Company_유라코퍼레이션_2588aa1a,SUPPLIES,"South Korea row: 유라코퍼레이션 located at 청주/평택/경주 handles 와이어링 하니스; materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_ls전선_8ba93ce3,Company_유라코퍼레이션_2588aa1a,SUPPLIES,South Korea row: LS전선 located at 구미 handles 와이어링 하니스; materials=구리; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_hl만도_8fdd8fcf,SUPPLIES,"South Korea row: HL만도 located at 평택 handles 제동장치; materials=주석,탄탈럼; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_hl만도_8fdd8fcf,SUPPLIES,South Korea row: LT메탈 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_hl만도_hl클레무브_639cb150,SUPPLIES,"South Korea row: HL만도(HL클레무브) located at 인천 handles 자율주행/전동화 부품; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_hl만도_hl클레무브_639cb150,SUPPLIES,South Korea row: LT메탈 located at 인천 handles 자율주행/전동화 부품; materials=주석; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_모베이시스전자_173de7c7,SUPPLIES,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_모베이시스전자_173de7c7,SUPPLIES,South Korea row: LT메탈 located at 인천 handles 스마트키 등 전자제어 시스템; materials=금; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_발레오전장시스템코리아_502e5f67,SUPPLIES,"South Korea row: 발레오전장시스템코리아 located at 경주 handles 시동모터, 교류발전기; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_발레오전장시스템코리아_502e5f67,SUPPLIES,"South Korea row: LT메탈 located at 인천 handles 시동모터, 교류발전기; materials=주석; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_에스엘_7bcd559e,SUPPLIES,"South Korea row: 에스엘 located at 천안/대구 handles 램프,전동화 부품, 미러; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_에스엘_7bcd559e,SUPPLIES,"South Korea row: LT메탈 located at 인천 handles 램프,전동화 부품, 미러; materials=주석; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_현대모비스_e636ba5b,SUPPLIES,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_현대모비스_e636ba5b,SUPPLIES,"South Korea row: LT메탈 located at 인천 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금, 주석; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_현대모비스_유니투스_c5404582,SUPPLIES,"South Korea row: 현대모비스(유니투스) located at 아산/평택/천안/충주/김천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=주석, 금,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_ce77f562,Company_현대모비스_유니투스_c5404582,SUPPLIES,"South Korea row: LT메탈 located at 인천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=금, 주석; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_lt메탈_소주_154c31a8,Company_hyundai_mobis_67ae806b,SUPPLIES,China row: Hyundai Mobis located at 베이징 handles 에어백모듈; materials=금; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_lt메탈_소주_연태_1454b731,Company_hyundai_mobis_67ae806b,SUPPLIES,"China row: LT메탈(소주/연태) located at 심천, 천진 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.",auto_supply_chain.xlsx
+Supplier_metalor_3c1ee235,Company_hyundai_mobis_67ae806b,SUPPLIES,China row: metalor located at 소주 handles 에어백 모듈; materials=금; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Supplier_metalor_소주법인_3c2900cf,Company_hyundai_mobis_67ae806b,SUPPLIES,China row: Hyundai Mobis located at 베이징 handles 에어백모듈; materials=금; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_msc_085110b1,Company_hyundai_kefico_caad7aa6,SUPPLIES,China row: Hyundai Kefico located at 하노이 handles 경보기; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_murata_1ce1c987,Company_denso_b7739daa,SUPPLIES,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_murata_1ce1c987,Company_denso_b7739daa,SUPPLIES,Japan row: murata located at handles 브레이크; materials=탄탈럼; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ningxia_tianyuan_manganese_584fa8df,Company_mando_5070089e,SUPPLIES,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_ningxia_tianyuan_manganese_584fa8df,Company_mando_5070089e,SUPPLIES,China row: Ningxia tianyuan Manganese located at handles 브레이크; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_nippon_steel_338b7532,Company_kyb_df1dffe7,SUPPLIES,Japan row: KYB located at 기후 handles 서스펜션; materials=; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_nippon_steel_338b7532,Company_kyb_df1dffe7,SUPPLIES,Japan row: Nippon steel located at handles 서스펜션; materials=망간; supplies_to=KYB; tier=2.0.,auto_supply_chain.xlsx
+Supplier_posco_china_94b93d1d,Company_hyundai_transys_e1735560,SUPPLIES,China row: Hyundai Transys located at 창춘 handles 구동차축; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_posco_china_94b93d1d,Company_mando_5070089e,SUPPLIES,China row: posco china located at handles 구동차축; materials=망간; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_saarstahl_79036940,Company_bosch_e8e30ffa,SUPPLIES,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_saarstahl_79036940,Company_bosch_e8e30ffa,SUPPLIES,Germany row: Saarstahl located at handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_saarstahl_79036940,Company_zf_4093b779,SUPPLIES,Germany row: Saarstahl located at handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_senju_metal_industry_e214dc6f,Company_denso_b7739daa,SUPPLIES,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_senju_metal_industry_e214dc6f,Company_denso_b7739daa,SUPPLIES,Japan row: senju metal industry located at handles 브레이크; materials=주석; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Company_현대모비스_e636ba5b,SUPPLIES,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Company_현대모비스_e636ba5b,SUPPLIES,"South Korea row: SIMPACK located at 포함 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=망간; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Company_현대모비스_유니투스_c5404582,SUPPLIES,"South Korea row: 현대모비스(유니투스) located at 아산/평택/천안/충주/김천 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=주석, 금,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Company_현대모비스_유니투스_c5404582,SUPPLIES,"South Korea row: SIMPACK located at 포함 handles 섀시/전동화 부품, 에어백, 램프 등 핵심 부품; materials=망간; supplies_to=현대모비스(유니투스); tier=2.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Company_현대위아_e20d69f3,SUPPLIES,"South Korea row: 현대위아 located at 창원 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_simpack_2a864d60,Company_현대위아_e20d69f3,SUPPLIES,"South Korea row: SIMPACK located at 포함 handles 동력전달장치(액슬, 등속조인트); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_sumitomo_metal_mining_2b650d60,Company_denso_b7739daa,SUPPLIES,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_sumitomo_metal_mining_2b650d60,Company_denso_b7739daa,SUPPLIES,"Japan row: Sumitomo metal mining located at handles 브레이크; materials=코발트,구리; supplies_to=Denso; tier=2.0.",auto_supply_chain.xlsx
+Supplier_tanaka_kikinzoku_3350acf9,Company_denso_b7739daa,SUPPLIES,"Japan row: Denso located at 아이치 handles 브레이크; materials=망간, 코발트, 주석, 탄탈럼, 금,텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_tanaka_kikinzoku_3350acf9,Company_denso_b7739daa,SUPPLIES,Japan row: Tanaka kikinzoku located at handles 브레이크; materials=금; supplies_to=Denso; tier=2.0.,auto_supply_chain.xlsx
+Supplier_thyssenkrupp_09f31296,Company_bosch_e8e30ffa,SUPPLIES,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_thyssenkrupp_09f31296,Company_bosch_e8e30ffa,SUPPLIES,Germany row: ThyssenKrupp located at 뒤스부르크 handles 서스펜션; materials=망간; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_thyssenkrupp_09f31296,Company_zf_4093b779,SUPPLIES,Germany row: ThyssenKrupp located at 뒤스부르크 handles 기타승용차 부품; materials=망간; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_wieland_werke_58943445,Company_bosch_e8e30ffa,SUPPLIES,"Germany row: Bosch located at 슈투트가르트 handles 서스펜션; materials=망간, 구리, 금, 탄탈럼, 텅스템; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_wieland_werke_58943445,Company_bosch_e8e30ffa,SUPPLIES,Germany row: Wieland Werke located at 울름 handles 서스펜션; materials=구리; supplies_to=Bosch; tier=2.0.,auto_supply_chain.xlsx
+Supplier_wieland_werke_58943445,Company_zf_4093b779,SUPPLIES,Germany row: Wieland Werke located at 울름 handles 기타승용차 부품; materials=구리; supplies_to=ZF; tier=2.0.,auto_supply_chain.xlsx
+Supplier_xiamen_tungsten_306b52bb,Company_mando_5070089e,SUPPLIES,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_xiamen_tungsten_306b52bb,Company_mando_5070089e,SUPPLIES,China row: Xiamen Tungsten located at handles 브레이크; materials=텅스텐; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Company_hyundai_mobis_67ae806b,SUPPLIES,China row: Hyundai Mobis located at 장쑤 handles 카스테레오; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Company_hyundai_mobis_67ae806b,SUPPLIES,China row: Ynnan tin located at handles 카스테레오-주석; materials=주석; supplies_to=Hyundai Mobis; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Company_kyungshin_6af4d113,SUPPLIES,"China row: Kyungshin located at 옌타이 handles 와이어링 하니스; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Company_kyungshin_6af4d113,SUPPLIES,China row: Ynnan tin located at handles 와이어링 하네스; materials=주석; supplies_to=Kyungshin; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Company_lg_electronics_11f2225f,SUPPLIES,China row: Ynnan tin located at handles CDS 수신기; materials=주석; supplies_to=LG Electronics; tier=2.0.,auto_supply_chain.xlsx
+Supplier_ynnan_tin_b094fef0,Company_mando_5070089e,SUPPLIES,China row: Ynnan tin located at handles 브레이크; materials=주석; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_yunnan_tin_977cd4e2,Company_lg_electronics_11f2225f,SUPPLIES,China row: LG Electronics located at 난징 handles CDS 수신기; materials=주석; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_yunnan_tin_977cd4e2,Company_mando_5070089e,SUPPLIES,"China row: Mando located at 옌청 handles 브레이크; materials=주석, 탄탈럼,망간, 텅스텐; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_교세라_avx_af69bc16,Company_mando_5070089e,SUPPLIES,China row: 교세라(AVX) located at handles 브레이크; materials=탄탈럼; supplies_to=Mando; tier=2.0.,auto_supply_chain.xlsx
+Supplier_대원전선_37d00749,Company_경신_5e2dd99f,SUPPLIES,"South Korea row: 경신 located at 경주/화성/군산 handles 와이어링 하니스(배선뭉치); materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_대원전선_37d00749,Company_경신_5e2dd99f,SUPPLIES,South Korea row: 대원전선 located at 예산 handles 와이어링 하니스(배선뭉치); materials=구리; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_대진인더스_15b7ae54,Company_hl만도_hl클레무브_639cb150,SUPPLIES,"South Korea row: HL만도(HL클레무브) located at 인천 handles 자율주행/전동화 부품; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_대진인더스_15b7ae54,Company_hl만도_hl클레무브_639cb150,SUPPLIES,South Korea row: 대진인더스 located at 화성 handles 자율주행/전동화 부품; materials=금; supplies_to=HL만도(HL클레무브); tier=2.0.,auto_supply_chain.xlsx
+Supplier_대창_e309ea0c,Company_hl만도_8fdd8fcf,SUPPLIES,"South Korea row: HL만도 located at 익산 handles 현가장치; materials=구리,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_대창_e309ea0c,Company_hl만도_8fdd8fcf,SUPPLIES,South Korea row: 대창 located at 시흥 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Company_모베이시스전자_173de7c7,SUPPLIES,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Company_모베이시스전자_173de7c7,SUPPLIES,South Korea row: 삼성전기 located at 세종 handles 스마트키 등 전자제어 시스템; materials=탄탈럼; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Company_현대모비스_e636ba5b,SUPPLIES,"South Korea row: 현대모비스 located at 울산(전동화)/진천/창원/대구(전동화) handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=금,주석, 탄탈럼, 망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_삼성전기_2a5227f1,Company_현대모비스_e636ba5b,SUPPLIES,"South Korea row: 삼성전기 located at 세종 handles -섀시모듈(차량하부)/콕핏모듈(운전석)/프런트엔드모듈(엔진룸 앞) - 조향/현가/제동 장치, 에어백 - 전동화 부품: 전력변환/구동/배터리/연료전지 시스템 - A/S 부품: 순정부품(현대자동차/기아), 자동차용품; materials=탄탈럼; supplies_to=현대모비스; tier=2.0.",auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_hl만도_8fdd8fcf,SUPPLIES,"South Korea row: HL만도 located at 익산 handles 현가장치; materials=구리,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_hl만도_8fdd8fcf,SUPPLIES,South Korea row: 세아베스틸 located at 군산 handles 현가장치; materials=망간; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_카펙발레오_425e39cf,SUPPLIES,South Korea row: 카펙발레오 located at 칠곡/성주 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_카펙발레오_425e39cf,SUPPLIES,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=카펙발레오; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_평화바레오_feb723b6,SUPPLIES,South Korea row: 평화바레오 located at 대구/고령 handles 클러치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_평화바레오_feb723b6,SUPPLIES,South Korea row: 세아베스틸 located at 군산 handles 클러치; materials=망간; supplies_to=평화바레오; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_현대위아_e20d69f3,SUPPLIES,"South Korea row: 현대위아 located at 광주 handles 섀시모듈, 타이어모듈, 동력전달장치(액슬); materials=망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_현대위아_e20d69f3,SUPPLIES,South Korea row: 현대위아 located at 울산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_현대위아_e20d69f3,SUPPLIES,"South Korea row: 세아베스틸 located at 군산 handles 섀시모듈, 타이어모듈, 동력전달장치(액슬); materials=망간; supplies_to=현대위아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_현대위아_e20d69f3,SUPPLIES,South Korea row: 세아베스틸 located at 군산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_현대트랜시스_fdd83181,SUPPLIES,South Korea row: 현대트랜시스 located at 서산 handles 동력전달장치; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_현대트랜시스_fdd83181,SUPPLIES,South Korea row: 세아베스틸 located at 군산 handles 동력전달장치; materials=망간; supplies_to=현대트랜시스; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_화신_4e71503a,SUPPLIES,South Korea row: 화신 located at 영천/예산 handles 차체용 부품; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_세아베스틸_6dfe688d,Company_화신_4e71503a,SUPPLIES,South Korea row: 세아베스틸 located at 군산 handles 차체용 부품; materials=망간; supplies_to=화신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_세아특수강_87dffc48,Company_지엠비코리아_cd8d0c22,SUPPLIES,"South Korea row: 지엠비코리아 located at 창원/서산 handles 변속기, 엔진, 섀시; materials=텅스텐,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_세아특수강_87dffc48,Company_지엠비코리아_cd8d0c22,SUPPLIES,"South Korea row: 세아특수강 located at 창원 handles 변속기, 엔진, 섀시; materials=망간; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Company_경신_5e2dd99f,SUPPLIES,"South Korea row: 경신 located at 경주/화성/군산 handles 와이어링 하니스(배선뭉치); materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Company_경신_5e2dd99f,SUPPLIES,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스(배선뭉치); materials=주석; supplies_to=경신; tier=2.0.,auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Company_모베이시스전자_173de7c7,SUPPLIES,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Company_모베이시스전자_173de7c7,SUPPLIES,South Korea row: 알파코리아 located at 시흥 handles 스마트키 등 전자제어 시스템; materials=주석; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Company_유라코퍼레이션_2588aa1a,SUPPLIES,"South Korea row: 유라코퍼레이션 located at 청주/평택/경주 handles 와이어링 하니스; materials=구리, 주석; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_알파코리아_1ec9bb05,Company_유라코퍼레이션_2588aa1a,SUPPLIES,South Korea row: 알파코리아 located at 시흥 handles 와이어링 하니스; materials=주석; supplies_to=유라코퍼레이션; tier=2.0.,auto_supply_chain.xlsx
+Supplier_엠케이전자_7815dd82,Company_에스엘_7bcd559e,SUPPLIES,"South Korea row: 에스엘 located at 천안/대구 handles 램프,전동화 부품, 미러; materials=주석, 금; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_엠케이전자_7815dd82,Company_에스엘_7bcd559e,SUPPLIES,"South Korea row: 엠케이전자 located at 음성 handles 램프,전동화 부품, 미러; materials=금; supplies_to=에스엘; tier=2.0.",auto_supply_chain.xlsx
+Supplier_연태_79c65f85,Company_hyundai_mobis_67ae806b,SUPPLIES,China row: Hyundai Mobis located at 베이징 handles 에어백모듈; materials=금; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_창성_b2d7118e,Company_hl만도_8fdd8fcf,SUPPLIES,"South Korea row: HL만도 located at 평택 handles 제동장치; materials=주석,탄탈럼; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_창성_b2d7118e,Company_hl만도_8fdd8fcf,SUPPLIES,South Korea row: 창성 located at 인천 handles 제동장치; materials=주석; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Company_hl만도_8fdd8fcf,SUPPLIES,"South Korea row: HL만도 located at 익산 handles 현가장치; materials=구리,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Company_hl만도_8fdd8fcf,SUPPLIES,South Korea row: 풍산 located at 울산 handles 현가장치; materials=구리; supplies_to=HL만도; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Company_모베이시스전자_173de7c7,SUPPLIES,"South Korea row: 모베이시스전자 located at 수원 handles 스마트키 등 전자제어 시스템; materials=주석,탄탈럼, 금,구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Company_모베이시스전자_173de7c7,SUPPLIES,South Korea row: 풍산 located at 울산 handles 스마트키 등 전자제어 시스템; materials=구리; supplies_to=모베이시스전자; tier=2.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Company_발레오전장시스템코리아_502e5f67,SUPPLIES,"South Korea row: 발레오전장시스템코리아 located at 경주 handles 시동모터, 교류발전기; materials=주석, 구리; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Company_발레오전장시스템코리아_502e5f67,SUPPLIES,"South Korea row: 풍산 located at 울산 handles 시동모터, 교류발전기; materials=구리; supplies_to=발레오전장시스템코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Company_한온시스템_9d7833b6,SUPPLIES,South Korea row: 한온시스템 located at 울산 handles 자동차 열관리 시스템; materials=구리; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_풍산_fcf7e365,Company_한온시스템_9d7833b6,SUPPLIES,South Korea row: 풍산 located at 창원 handles 자동차 열관리 시스템; materials=구리; supplies_to=한온시스템; tier=2.0.,auto_supply_chain.xlsx
+Supplier_한국분말야금_6500fab7,Company_지엠비코리아_cd8d0c22,SUPPLIES,"South Korea row: 지엠비코리아 located at 창원/서산 handles 변속기, 엔진, 섀시; materials=텅스텐,망간; supplies_to=; tier=1.0.",auto_supply_chain.xlsx
+Supplier_한국분말야금_6500fab7,Company_지엠비코리아_cd8d0c22,SUPPLIES,"South Korea row: 한국분말야금 located at 아산 handles 변속기, 엔진, 섀시; materials=텅스텐; supplies_to=지엠비코리아; tier=2.0.",auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Company_현대위아_e20d69f3,SUPPLIES,South Korea row: 현대위아 located at 안산 handles 섀시모듈; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Company_현대위아_e20d69f3,SUPPLIES,South Korea row: 현대위아 located at 울산 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Company_현대위아_e20d69f3,SUPPLIES,South Korea row: 현대제철 located at 당진 handles 섀시모듈; materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Company_현대위아_e20d69f3,SUPPLIES,South Korea row: 현대제철 located at 포항 handles 자동차 엔진 부품(크랭크 샤프트); materials=망간; supplies_to=현대위아; tier=2.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Company_현대케피코_4a96187d,SUPPLIES,South Korea row: 현대케피코 located at 군포 handles 자동차 엔진/변속기 부품; materials=망간; supplies_to=; tier=1.0.,auto_supply_chain.xlsx
+Supplier_현대제철_1c5e49d3,Company_현대케피코_4a96187d,SUPPLIES,South Korea row: 현대제철 located at 포항 handles 자동차 엔진/변속기 부품; materials=망간; supplies_to=현대케피코; tier=2.0.,auto_supply_chain.xlsx
+Country_japan_016a8706,Route_japan_energy_import_route_via_hormuz_strait_c54f3c53,USES_ROUTE,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_japan_016a8706,Route_japan_energy_import_route_via_malacca_strait_9ad807db,USES_ROUTE,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_japan_016a8706,Route_japan_energy_import_route_via_south_china_sea_3d8fc56d,USES_ROUTE,"Japan: 한국과 유사하게 에너지 수입 의존도 90% 이상. 2024년 LNG 수입 89.0bcm, 석탄 수입 4.35EJ 원전 재가동 지연 시 LNG·석탄 의존이 커짐. 섬나라 구조상 해상 수송로와 스팟 LNG 가격 변동에 매우 취약",country_energy_dependency.xlsx
+Country_south_korea_238b8074,Route_south_korea_energy_import_route_via_hormuz_strait_35aa2c7e,USES_ROUTE,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Country_south_korea_238b8074,Route_south_korea_energy_import_route_via_malacca_strait_aa3eda7e,USES_ROUTE,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
+Country_south_korea_238b8074,Route_south_korea_energy_import_route_via_south_china_sea_30d836ee,USES_ROUTE,"South Korea: 일본과 함께 에너지 수입 의존도가 90% 이상. 원유 수입의 약 70%가 호르무즈 해협, 85%가 말라카 해협을 통과. LNG 수입의 70% 이상이 남중국해 경유 제조업·반도체·배터리 등 에너지 집약 산업 기반인데 화석연료 대부분을 수입. 해협 봉쇄, LNG 가격 급등, 지정학 리스크에 취약",country_energy_dependency.xlsx
